@@ -1,0 +1,131 @@
+[
+  {
+    "id": "federal-criminal",
+    "caseType": "Federal Criminal Cases",
+    "initialForum": "U.S. District Court",
+    "initialForumDetail": "Article III trial courts with life-tenured judges. Handle all federal criminal prosecutions including drug trafficking, mail fraud, civil rights violations, and terrorism.",
+    "appealPath": "U.S. Court of Appeals (Circuit) → Supreme Court",
+    "appealDetail": "Defendants appeal as of right to the regional Circuit Court of Appeals. From there, further review by the Supreme Court is discretionary via writ of certiorari.",
+    "supremeCourtReview": "Yes — Discretionary",
+    "overview": "Federal District Courts are the primary trial courts of the federal system. Prosecutors must prove guilt beyond a reasonable doubt. Defendants enjoy robust constitutional protections under the Fourth (search and seizure), Fifth (self-incrimination), and Sixth (right to counsel, jury trial) Amendments.",
+    "keyNotes": [
+      "Article III courts — judges serve during good behavior (effectively life tenure).",
+      "Sentencing governed by the Federal Sentencing Guidelines (advisory after United States v. Booker, 2005).",
+      "Grand jury indictment required for felonies under the Fifth Amendment.",
+      "Double jeopardy protections apply once jeopardy attaches at trial."
+    ],
+    "relatedCaseIds": [
+      "miranda-v-arizona-1966"
+    ]
+  },
+  {
+    "id": "federal-civil",
+    "caseType": "Federal Civil Litigation",
+    "initialForum": "U.S. District Court",
+    "initialForumDetail": "Federal civil cases arise under federal law (federal question jurisdiction) or between citizens of different states with over $75,000 at stake (diversity jurisdiction).",
+    "appealPath": "U.S. Court of Appeals (Circuit) → Supreme Court",
+    "appealDetail": "Appeals of right to the Circuit Court. The Supreme Court reviews by certiorari, granting review in roughly 1–2% of petitions filed.",
+    "supremeCourtReview": "Yes — Discretionary",
+    "overview": "Federal civil jurisdiction covers constitutional claims, federal statutory causes of action (civil rights, antitrust, securities, patents), and diversity cases. The Federal Rules of Civil Procedure govern pretrial and trial proceedings.",
+    "keyNotes": [
+      "Diversity jurisdiction requires complete diversity — no plaintiff may share a state with any defendant.",
+      "Federal question jurisdiction arises when a claim arises under the Constitution, a federal statute, or a treaty.",
+      "Supplemental jurisdiction allows federal courts to hear related state law claims.",
+      "Class actions are common in federal civil practice under Rule 23."
+    ],
+    "relatedCaseIds": [
+      "plessy-v-ferguson-1896",
+      "brown-v-board-1954",
+      "roe-v-wade-1973"
+    ]
+  },
+  {
+    "id": "bankruptcy",
+    "caseType": "Bankruptcy",
+    "initialForum": "U.S. Bankruptcy Court",
+    "initialForumDetail": "Specialized Article I courts operating as units of the District Courts. Bankruptcy judges serve 14-year terms appointed by the Circuit Courts of Appeals.",
+    "appealPath": "District Court (or BAP) → Circuit Court → Supreme Court",
+    "appealDetail": "Appeals go to the U.S. District Court or a Bankruptcy Appellate Panel (BAP), then to the Circuit Court. Supreme Court review by certiorari.",
+    "supremeCourtReview": "Yes — Discretionary",
+    "overview": "Bankruptcy courts handle all cases under Title 11 of the U.S. Code. Chapter 7 involves liquidation; Chapter 11 allows business reorganization; Chapter 13 provides individual debt repayment plans. The automatic stay upon filing halts most collection actions.",
+    "keyNotes": [
+      "Bankruptcy jurisdiction is exclusively federal — states cannot create their own bankruptcy systems.",
+      "Bankruptcy courts cannot enter final judgment in certain \"non-core\" proceedings (Stern v. Marshall, 2011).",
+      "The trustee in bankruptcy represents the estate and can avoid certain pre-bankruptcy transfers.",
+      "Discharge eliminates personal liability for most debts but does not remove liens from property."
+    ],
+    "relatedCaseIds": []
+  },
+  {
+    "id": "tax",
+    "caseType": "Federal Tax Disputes",
+    "initialForum": "U.S. Tax Court",
+    "initialForumDetail": "An Article I court in Washington, D.C. Allows taxpayers to challenge IRS deficiency determinations before paying the disputed tax. Judges serve 15-year terms.",
+    "appealPath": "U.S. Court of Appeals (regional) → Supreme Court",
+    "appealDetail": "Appeals go to the Circuit Court for the taxpayer's home circuit (not always D.C.). The Supreme Court may grant certiorari.",
+    "supremeCourtReview": "Yes — Discretionary",
+    "overview": "Taxpayers have three forums for federal tax disputes: Tax Court (before paying), or U.S. District Court / Court of Federal Claims (after paying and filing a refund claim). Each has different procedural rules and strategic implications.",
+    "keyNotes": [
+      "Tax Court is the only forum where you can litigate without first paying the disputed tax.",
+      "Small Tax Court cases (under $50,000) use simplified procedures with no appeal as of right.",
+      "The IRS has the burden of proof in certain circumstances under 26 U.S.C. § 7491.",
+      "Penalties and interest continue to accrue during litigation if tax is unpaid."
+    ],
+    "relatedCaseIds": []
+  },
+  {
+    "id": "claims-against-us",
+    "caseType": "Claims Against the United States",
+    "initialForum": "U.S. Court of Federal Claims",
+    "initialForumDetail": "An Article I court in Washington, D.C. that hears monetary claims against the federal government. Judges serve 15-year terms. The United States must have waived sovereign immunity for a suit to proceed.",
+    "appealPath": "U.S. Court of Appeals for the Federal Circuit → Supreme Court",
+    "appealDetail": "All appeals go exclusively to the Federal Circuit, a specialized appellate court. Further review by the Supreme Court is by certiorari.",
+    "supremeCourtReview": "Yes — Discretionary",
+    "overview": "The Tucker Act waives sovereign immunity for money claims based on the Constitution, federal statutes, regulations, or express or implied contracts. Fifth Amendment takings claims and government contract disputes are common. Patent cases filed here are also appealed to the Federal Circuit.",
+    "keyNotes": [
+      "Sovereign immunity bars suits against the government unless Congress waives it.",
+      "The Little Tucker Act ($10,000 or less) allows claims in U.S. District Court as well.",
+      "Fifth Amendment takings claims require showing the government 'took' private property for public use without just compensation.",
+      "The Federal Circuit has nationwide jurisdiction and specializes in patent, trade, and government contract law."
+    ],
+    "relatedCaseIds": []
+  },
+  {
+    "id": "immigration",
+    "caseType": "Immigration Matters",
+    "initialForum": "Immigration Court (EOIR)",
+    "initialForumDetail": "Immigration courts are administrative tribunals within the Department of Justice's Executive Office for Immigration Review (EOIR). Immigration judges are not Article III judges.",
+    "appealPath": "Board of Immigration Appeals → Circuit Court → Supreme Court",
+    "appealDetail": "Decisions are appealed to the Board of Immigration Appeals (BIA), then to the federal Circuit Court for the circuit where the immigration court sits. Supreme Court review by certiorari.",
+    "supremeCourtReview": "Yes — Discretionary",
+    "overview": "Immigration proceedings are civil (not criminal) in nature. Removal proceedings, asylum claims, and adjustment of status are common. Respondents are not entitled to appointed counsel at government expense, though they may retain counsel at their own cost.",
+    "keyNotes": [
+      "Immigration courts are part of the executive branch — they are not Article I or Article III courts.",
+      "The BIA is the highest administrative immigration tribunal in the United States.",
+      "Expedited removal proceedings bypass immigration court for certain recent arrivals.",
+      "Asylum requires showing a well-founded fear of persecution based on race, religion, nationality, political opinion, or social group."
+    ],
+    "relatedCaseIds": []
+  },
+  {
+    "id": "constitutional-rights",
+    "caseType": "Constitutional Rights Violations (§ 1983)",
+    "initialForum": "U.S. District Court or State Court",
+    "initialForumDetail": "42 U.S.C. § 1983 allows individuals to sue state officials who violated their constitutional rights under color of state law. Cases may be filed in either federal or state court.",
+    "appealPath": "U.S. Court of Appeals (Circuit) → Supreme Court",
+    "appealDetail": "Federal cases appeal to the relevant Circuit Court. State court § 1983 cases follow the state appellate path, with possible certiorari to the Supreme Court on federal constitutional questions.",
+    "supremeCourtReview": "Yes — Discretionary",
+    "overview": "§ 1983 is the primary vehicle for civil rights litigation against state actors. Claims include police misconduct, prison conditions, free speech violations, equal protection, and due process. Qualified immunity shields officers unless the constitutional right was \"clearly established.\"",
+    "keyNotes": [
+      "Only state actors are liable under § 1983 — federal officials are sued under Bivens v. Six Unknown Named Agents (1971).",
+      "Qualified immunity has been heavily criticized as a barrier to accountability; its scope is an active area of debate.",
+      "Municipalities can be liable under § 1983 only if the violation resulted from an official policy or custom (Monell v. Dept. of Social Services, 1978).",
+      "There is no exhaustion requirement for § 1983 claims (unlike prisoner litigation under the PLRA)."
+    ],
+    "relatedCaseIds": [
+      "brown-v-board-1954",
+      "gideon-v-wainwright-1963",
+      "miranda-v-arizona-1966"
+    ]
+  }
+]

@@ -1,0 +1,963 @@
+[
+  {
+    "id": "brown-v-board-1954",
+    "caseName": "Brown v. Board of Education",
+    "year": 1954,
+    "citation": "347 U.S. 483",
+    "areaOfLaw": "Equal Protection / Civil Rights",
+    "proceduralPath": [
+      {
+        "courtName": "U.S. District Court for the District of Kansas",
+        "courtLevel": "Federal Trial Court",
+        "roleInCase": "Oliver Brown filed suit on behalf of his daughter Linda Brown, who was denied enrollment at a white elementary school in Topeka, Kansas. The case was heard by a three-judge panel.",
+        "ruling": "Ruled against the plaintiffs. The court found that segregated schools were substantially equal in physical facilities and educational quality, citing Plessy v. Ferguson.",
+        "keyNotes": [
+          "The court acknowledged that segregation had a detrimental effect on Black children but felt bound by Plessy.",
+          "This ruling was strategically important — the NAACP wanted a clear record for appeal.",
+          "The case was consolidated with four similar cases from other states."
+        ]
+      },
+      {
+        "courtName": "U.S. Court of Appeals for the Tenth Circuit",
+        "courtLevel": "Federal Intermediate Court",
+        "roleInCase": "Both parties appealed the district court's ruling — the NAACP seeking a stronger remedy, and the state defending the segregation policy. However, the Supreme Court granted certiorari before the Tenth Circuit could rule, taking the case directly.",
+        "ruling": "No ruling issued. The Supreme Court granted certiorari before judgment, bypassing the court of appeals.",
+        "keyNotes": [
+          "The Supreme Court's decision to take the case before the appellate court acted was unusual and reflected the urgency of the constitutional question.",
+          "The Court consolidated Brown with four similar cases from other circuits at this stage."
+        ]
+      },
+      {
+        "courtName": "U.S. Supreme Court",
+        "courtLevel": "Court of Final Appeal",
+        "roleInCase": "The Supreme Court consolidated Brown with four related cases from Delaware, South Carolina, Virginia, and Washington D.C. Chief Justice Earl Warren authored the unanimous opinion.",
+        "ruling": "Reversed. Segregation of public schools solely on the basis of race violates the Equal Protection Clause of the Fourteenth Amendment.",
+        "keyNotes": [
+          "Chief Justice Warren worked behind the scenes to secure a unanimous 9-0 decision.",
+          "The Court relied on social science and psychological research, including the famous \"doll tests\" by Kenneth and Mamie Clark.",
+          "The decision explicitly overruled the \"separate but equal\" doctrine from Plessy v. Ferguson (1896).",
+          "A second ruling in 1955 (Brown II) ordered desegregation \"with all deliberate speed.\""
+        ]
+      }
+    ],
+    "finalHolding": "Segregation of children in public schools solely on the basis of race, even if physical facilities and other tangible factors are equal, deprives the children of the minority group of equal educational opportunities. Separate educational facilities are inherently unequal.",
+    "significance": "Brown v. Board of Education is one of the most significant cases in American constitutional history. It overturned the \"separate but equal\" doctrine established by Plessy v. Ferguson (1896), declared racial segregation in public schools unconstitutional, and became the legal and moral foundation for the broader Civil Rights Movement of the 1950s and 1960s.",
+    "discussionQuestions": [
+      "How did the Supreme Court's reasoning in Brown differ from its reasoning in Plessy v. Ferguson (1896)?",
+      "Why was the unanimous nature of the Brown decision strategically and symbolically important?",
+      "What practical difficulties did the phrase \"with all deliberate speed\" (from Brown II) create for desegregation efforts?",
+      "How did the NAACP's litigation strategy — deliberately losing at the trial court level — reflect a sophisticated understanding of appellate procedure?",
+      "Should courts rely on social science evidence, like the doll tests, when interpreting constitutional provisions? Why or why not?"
+    ],
+    "primarySources": {
+      "supremeCourtOpinion": "https://supreme.justia.com/cases/federal/us/347/483/",
+      "lowerCourtOpinion": "https://law.justia.com/cases/federal/district-courts/kansas/1951/1951-civil-action-no-373/",
+      "keyFilings": [
+        {
+          "title": "NAACP Legal Defense Fund Brief",
+          "url": "https://www.naacpldf.org/brown-vs-board/",
+          "description": "Overview of the NAACP's legal strategy and arguments."
+        },
+        {
+          "title": "Oyez Case Summary",
+          "url": "https://www.oyez.org/cases/1940-1955/347us483",
+          "description": "Audio of oral arguments and full case summary."
+        }
+      ]
+    }
+  },
+  {
+    "id": "marbury-v-madison-1803",
+    "caseName": "Marbury v. Madison",
+    "year": 1803,
+    "citation": "5 U.S. 137",
+    "areaOfLaw": "Constitutional Law / Judicial Review",
+    "proceduralPath": [
+      {
+        "courtName": "U.S. Supreme Court (Original Jurisdiction)",
+        "courtLevel": "Court of Original Jurisdiction",
+        "roleInCase": "William Marbury filed a writ of mandamus directly in the Supreme Court under the Judiciary Act of 1789, seeking to compel Secretary of State James Madison to deliver his judicial commission.",
+        "ruling": "Chief Justice John Marshall ruled that while Marbury had a legal right to his commission, the Supreme Court lacked jurisdiction to issue the writ because the relevant provision of the Judiciary Act of 1789 was unconstitutional.",
+        "keyNotes": [
+          "Marshall cleverly denied Marbury his commission while simultaneously asserting the Court's power to invalidate acts of Congress.",
+          "The decision established the principle of judicial review — the power of federal courts to strike down laws that conflict with the Constitution.",
+          "This remains the foundational case for understanding the role of the federal judiciary."
+        ]
+      }
+    ],
+    "finalHolding": "It is emphatically the province and duty of the judicial department to say what the law is. A law repugnant to the Constitution is void, and courts, as well as other departments, are bound by that instrument.",
+    "significance": "Marbury v. Madison is the cornerstone of American constitutional law. Chief Justice John Marshall established the doctrine of judicial review — the authority of federal courts to declare acts of Congress unconstitutional. Although the decision denied relief to the plaintiff, it permanently elevated the power of the Supreme Court and set the foundation for the independent judiciary envisioned by the Framers.",
+    "discussionQuestions": [
+      "Why is it significant that Marshall denied Marbury his commission while still asserting the Court's authority?",
+      "What would American constitutional law look like today if Marbury had been decided differently?",
+      "How does judicial review interact with the principle of democratic self-governance?",
+      "Was Marshall's opinion a political masterstroke, a genuine legal analysis, or both? Explain.",
+      "How has the power of judicial review evolved since 1803?"
+    ],
+    "primarySources": {
+      "supremeCourtOpinion": "https://supreme.justia.com/cases/federal/us/5/137/",
+      "keyFilings": [
+        {
+          "title": "Oyez Case Summary",
+          "url": "https://www.oyez.org/cases/1789-1850/5us137",
+          "description": "Full case summary and historical context."
+        }
+      ]
+    }
+  },
+  {
+    "id": "miranda-v-arizona-1966",
+    "caseName": "Miranda v. Arizona",
+    "year": 1966,
+    "citation": "384 U.S. 436",
+    "areaOfLaw": "Criminal Procedure / Fifth & Sixth Amendments",
+    "proceduralPath": [
+      {
+        "courtName": "Superior Court of Maricopa County, Arizona",
+        "courtLevel": "State Trial Court",
+        "roleInCase": "Ernesto Miranda was arrested and interrogated by Phoenix police without being informed of his right to counsel or his right against self-incrimination. He signed a confession after two hours of questioning.",
+        "ruling": "Miranda was convicted of kidnapping and rape based largely on his signed confession.",
+        "keyNotes": [
+          "Miranda was not told he had the right to remain silent or the right to an attorney before or during questioning.",
+          "His confession was the primary evidence used against him at trial."
+        ]
+      },
+      {
+        "courtName": "Arizona Supreme Court",
+        "courtLevel": "State Court of Last Resort",
+        "roleInCase": "Miranda appealed, arguing his confession was involuntary and obtained in violation of his constitutional rights.",
+        "ruling": "Affirmed the conviction, holding that Miranda had not specifically requested an attorney.",
+        "keyNotes": [
+          "The Arizona Supreme Court's decision was appealed to the U.S. Supreme Court.",
+          "The case was consolidated with three similar cases raising the same constitutional questions."
+        ]
+      },
+      {
+        "courtName": "U.S. Supreme Court",
+        "courtLevel": "Court of Final Appeal",
+        "roleInCase": "Chief Justice Earl Warren wrote the majority opinion for a 5-4 Court, consolidating Miranda with Vignera v. New York, Westover v. United States, and California v. Stewart.",
+        "ruling": "Reversed. The prosecution may not use statements stemming from custodial interrogation unless it demonstrates the use of procedural safeguards effective to secure the privilege against self-incrimination.",
+        "keyNotes": [
+          "The Court required police to inform suspects of their rights before custodial interrogation — what became known as the \"Miranda warning.\"",
+          "The four required advisements: right to remain silent, that statements can be used against them, right to an attorney, and right to appointed counsel if indigent.",
+          "The decision prompted Congress to pass 18 U.S.C. § 3501, which the Court later invalidated in Dickerson v. United States (2000).",
+          "Miranda himself was retried without the confession, convicted again on other evidence, and released in 1972."
+        ]
+      }
+    ],
+    "finalHolding": "The prosecution may not use statements, whether exculpatory or inculpatory, stemming from custodial interrogation of the defendant unless it demonstrates the use of procedural safeguards effective to secure the privilege against self-incrimination.",
+    "significance": "Miranda v. Arizona fundamentally transformed American police procedure and the rights of criminal suspects. The 'Miranda warning' became one of the most recognized legal phrases in American culture. The decision reflects the Warren Court's broader project of incorporating constitutional protections into state criminal proceedings.",
+    "discussionQuestions": [
+      "Does the Miranda warning provide genuine protection to suspects, or does it create a procedural formality that is easily waived?",
+      "How did Miranda change the day-to-day practice of law enforcement across the United States?",
+      "The decision was 5-4. What arguments did the dissenting justices raise, and are they persuasive?",
+      "Should the Miranda requirements be expanded, reduced, or kept the same in the modern era? Consider digital interrogations and social media.",
+      "How does Dickerson v. United States (2000) affect the constitutional status of Miranda warnings?"
+    ],
+    "primarySources": {
+      "supremeCourtOpinion": "https://supreme.justia.com/cases/federal/us/384/436/",
+      "keyFilings": [
+        {
+          "title": "Oyez Case Summary",
+          "url": "https://www.oyez.org/cases/1965/759",
+          "description": "Audio of oral arguments and full case summary."
+        }
+      ]
+    }
+  },
+  {
+    "id": "roe-v-wade-1973",
+    "caseName": "Roe v. Wade",
+    "year": 1973,
+    "citation": "410 U.S. 113",
+    "areaOfLaw": "Privacy / Due Process / Reproductive Rights",
+    "proceduralPath": [
+      {
+        "courtName": "U.S. District Court for the Northern District of Texas",
+        "courtLevel": "Federal Trial Court",
+        "roleInCase": "\"Jane Roe\" (Norma McCorvey) challenged the Texas statute making abortion a crime except to save the mother's life. The case was heard by a three-judge panel.",
+        "ruling": "Ruled in favor of Roe, finding the Texas statute unconstitutionally vague and overbroad under the Ninth Amendment. However, the court declined to grant injunctive relief against enforcement.",
+        "keyNotes": [
+          "The district court ruled on Ninth Amendment grounds, not the right to privacy later articulated by the Supreme Court.",
+          "Both sides appealed — the state on the ruling against it, and Roe on the denial of injunctive relief."
+        ]
+      },
+      {
+        "courtName": "U.S. Court of Appeals for the Fifth Circuit",
+        "courtLevel": "Federal Intermediate Court",
+        "roleInCase": "Both Roe (seeking injunctive relief) and the state of Texas (challenging the district court's ruling against it) appealed. The Fifth Circuit affirmed the district court's declaration of unconstitutionality but, like the district court, declined to enjoin enforcement.",
+        "ruling": "Affirmed the district court's ruling that the Texas abortion statute was unconstitutional, but declined to grant injunctive relief.",
+        "keyNotes": [
+          "The Fifth Circuit's refusal to issue an injunction meant the unconstitutional law remained enforceable pending Supreme Court review.",
+          "Both sides sought certiorari, and the Supreme Court granted review."
+        ]
+      },
+      {
+        "courtName": "U.S. Supreme Court",
+        "courtLevel": "Court of Final Appeal",
+        "roleInCase": "Justice Harry Blackmun authored the 7-2 majority opinion. The Court addressed whether the Constitution protected a right to abortion, and if so, what limits states could place on it.",
+        "ruling": "Reversed and remanded. The Court recognized a fundamental right to privacy under the Due Process Clause of the Fourteenth Amendment encompassing a woman's decision to terminate a pregnancy.",
+        "keyNotes": [
+          "The trimester framework divided pregnancy into three stages, with different levels of permissible state regulation at each.",
+          "The Court found that 'person' in the Fourteenth Amendment did not include the unborn.",
+          "Companion case Doe v. Bolton was decided the same day.",
+          "Roe was effectively overruled by Dobbs v. Jackson Women's Health Organization (2022), which returned abortion regulation to individual states."
+        ]
+      }
+    ],
+    "finalHolding": "The right of privacy is broad enough to encompass a woman's decision whether or not to terminate her pregnancy, balanced against important state interests in health and potential life.",
+    "significance": "Roe v. Wade was one of the most consequential and contested decisions in Supreme Court history, establishing a constitutional right to abortion for nearly 50 years. In 2022, the Supreme Court overruled Roe in Dobbs v. Jackson Women's Health Organization, returning the question of abortion regulation to individual states.",
+    "discussionQuestions": [
+      "What constitutional provision did the Court rely on in Roe, and is that textual basis convincing?",
+      "How did the trimester framework attempt to balance competing interests, and what were its practical limitations?",
+      "Why did the Court in Dobbs conclude that Roe was wrongly decided? Do you find that reasoning persuasive?",
+      "What does Roe v. Wade reveal about the relationship between constitutional interpretation and social change?",
+      "How should courts handle the overruling of major precedents? What does stare decisis require?"
+    ],
+    "primarySources": {
+      "supremeCourtOpinion": "https://supreme.justia.com/cases/federal/us/410/113/",
+      "keyFilings": [
+        {
+          "title": "Oyez Case Summary",
+          "url": "https://www.oyez.org/cases/1971/70-18",
+          "description": "Audio of oral arguments and full case summary."
+        },
+        {
+          "title": "Dobbs v. Jackson (2022) — Overruling Opinion",
+          "url": "https://supreme.justia.com/cases/federal/us/597/19-1392/",
+          "description": "The 2022 decision that overruled Roe v. Wade."
+        }
+      ]
+    }
+  },
+  {
+    "id": "united-states-v-nixon-1974",
+    "caseName": "United States v. Nixon",
+    "year": 1974,
+    "citation": "418 U.S. 683",
+    "areaOfLaw": "Executive Power / Separation of Powers",
+    "proceduralPath": [
+      {
+        "courtName": "U.S. District Court for the District of Columbia",
+        "courtLevel": "Federal Trial Court",
+        "roleInCase": "Special Prosecutor Leon Jaworski subpoenaed President Nixon for tape recordings and documents related to White House conversations as part of the Watergate criminal investigation. Nixon moved to quash the subpoena, claiming executive privilege.",
+        "ruling": "Judge John Sirica denied Nixon's motion to quash, ordering production of the subpoenaed materials in camera for the court's review.",
+        "keyNotes": [
+          "Nixon released edited transcripts of some conversations but refused to surrender the actual tapes.",
+          "Both the Special Prosecutor and Nixon sought direct review by the Supreme Court, bypassing the Court of Appeals."
+        ]
+      },
+      {
+        "courtName": "U.S. Supreme Court",
+        "courtLevel": "Court of Final Appeal",
+        "roleInCase": "Chief Justice Warren Burger authored the unanimous 8-0 opinion (Justice Rehnquist recused himself). The Court addressed whether the President could assert absolute executive privilege to withhold materials from a criminal proceeding.",
+        "ruling": "Affirmed. The Court recognized a constitutionally based executive privilege but held it was not absolute. The specific need for evidence in a criminal trial outweighed the generalized claim of confidentiality.",
+        "keyNotes": [
+          "Nixon complied with the order. The tapes revealed he had participated in the cover-up, leading directly to his resignation on August 9, 1974.",
+          "The unanimous decision by justices including Nixon's own appointees underscored the rule of law over executive power.",
+          "The case established that no person — including the President — is above the law.",
+          "The Court distinguished between military/diplomatic confidentiality and generalized privilege claims."
+        ]
+      }
+    ],
+    "finalHolding": "Neither the doctrine of separation of powers, nor the need for confidentiality of high-level communications, without more, can sustain an absolute, unqualified Presidential privilege of immunity from judicial process under all circumstances.",
+    "significance": "United States v. Nixon stands as the definitive statement that presidential power has constitutional limits. The unanimous decision rejected Nixon's claim of absolute executive privilege and directly precipitated his resignation — the only time in American history a president has resigned from office.",
+    "discussionQuestions": [
+      "Why was it significant that the Court was unanimous, and that Nixon's own appointees joined the opinion?",
+      "The Court recognized executive privilege while rejecting absolute privilege. Where should the line be drawn?",
+      "How does this case define the relationship between the three branches of government?",
+      "If Nixon had refused to comply with the Court's order, what would have happened? What does that reveal about the limits of judicial power?",
+      "How has the scope of executive privilege been tested in cases after Nixon, including in recent years?"
+    ],
+    "primarySources": {
+      "supremeCourtOpinion": "https://supreme.justia.com/cases/federal/us/418/683/",
+      "keyFilings": [
+        {
+          "title": "Oyez Case Summary",
+          "url": "https://www.oyez.org/cases/1973/73-1766",
+          "description": "Audio of oral arguments and full case summary."
+        }
+      ]
+    }
+  },
+  {
+    "id": "plessy-v-ferguson-1896",
+    "caseName": "Plessy v. Ferguson",
+    "year": 1896,
+    "citation": "163 U.S. 537",
+    "areaOfLaw": "Equal Protection / Civil Rights",
+    "proceduralPath": [
+      {
+        "courtName": "Criminal District Court for the Parish of Orleans, Louisiana",
+        "courtLevel": "State Trial Court",
+        "roleInCase": "Homer Plessy, who was seven-eighths white and one-eighth Black, was arrested for sitting in the \"whites only\" car of the East Louisiana Railroad in a deliberate test of the state's Separate Car Act of 1890. He was convicted and fined.",
+        "ruling": "Found Plessy guilty of violating the Separate Car Act. The court rejected his constitutional challenge.",
+        "keyNotes": [
+          "The case was a planned test case organized by the Citizens' Committee, a New Orleans civil rights group.",
+          "Plessy's arrest was coordinated in advance with the railroad company, which opposed the segregation law on cost grounds.",
+          "Judge John Howard Ferguson ruled against Plessy — giving the case its name."
+        ]
+      },
+      {
+        "courtName": "Supreme Court of Louisiana",
+        "courtLevel": "State Court of Last Resort",
+        "roleInCase": "Plessy sought review by writ of prohibition, arguing the Separate Car Act violated the Thirteenth and Fourteenth Amendments.",
+        "ruling": "Denied relief, upholding the constitutionality of the Separate Car Act.",
+        "keyNotes": [
+          "The Louisiana Supreme Court's decision paved the way for federal constitutional review."
+        ]
+      },
+      {
+        "courtName": "U.S. Supreme Court",
+        "courtLevel": "Court of Final Appeal",
+        "roleInCase": "Justice Henry Brown authored the 7-1 majority opinion. Justice John Marshall Harlan wrote a famous solo dissent. The Court addressed whether mandatory racial segregation on railroads violated the Equal Protection Clause.",
+        "ruling": "Affirmed. The Court upheld the constitutionality of \"separate but equal\" racial segregation, holding that the Fourteenth Amendment was intended to enforce legal, not social, equality.",
+        "keyNotes": [
+          "The majority held that \"separate but equal\" facilities satisfied the Equal Protection Clause of the Fourteenth Amendment.",
+          "Justice Harlan's lone dissent declared: \"Our Constitution is color-blind, and neither knows nor tolerates classes among citizens.\"",
+          "The decision entrenched Jim Crow laws across the South for nearly 60 years.",
+          "Plessy was explicitly overruled by Brown v. Board of Education in 1954."
+        ]
+      }
+    ],
+    "finalHolding": "A state law requiring separate railway carriages for Black and white passengers does not violate the Equal Protection Clause of the Fourteenth Amendment, provided the separate facilities are equal. Laws permitting or requiring separation of the races in places where the races are liable to be brought into contact do not necessarily imply the inferiority of either race.",
+    "significance": "Plessy v. Ferguson enshrined the \"separate but equal\" doctrine in American constitutional law, providing the legal foundation for the Jim Crow system of racial segregation for nearly six decades. It was not overruled until Brown v. Board of Education (1954). Justice Harlan's prescient dissent — that the Constitution is \"color-blind\" — was vindicated by history and became one of the most celebrated dissents ever written.",
+    "discussionQuestions": [
+      "How did the majority distinguish legal equality from social equality, and is that distinction defensible?",
+      "Why did Justice Harlan dissent, and how did his reasoning anticipate Brown v. Board of Education?",
+      "What role did the \"color-blind Constitution\" principle play in later civil rights jurisprudence? Has it been embraced or rejected?",
+      "How did Plessy enable and entrench the Jim Crow system beyond railroad cars?",
+      "What does the gap between Plessy (1896) and Brown (1954) reveal about the pace of constitutional change?"
+    ],
+    "primarySources": {
+      "supremeCourtOpinion": "https://supreme.justia.com/cases/federal/us/163/537/",
+      "keyFilings": [
+        {
+          "title": "Oyez Case Summary",
+          "url": "https://www.oyez.org/cases/1850-1900/163us537",
+          "description": "Full case summary, historical background, and Justice Harlan's dissent."
+        },
+        {
+          "title": "Justice Harlan's Dissent (Full Text)",
+          "url": "https://supreme.justia.com/cases/federal/us/163/537/#tab-opinion-1956763",
+          "description": "The lone dissent declaring the Constitution \"color-blind.\""
+        }
+      ]
+    }
+  },
+  {
+    "id": "gideon-v-wainwright-1963",
+    "caseName": "Gideon v. Wainwright",
+    "year": 1963,
+    "citation": "372 U.S. 335",
+    "areaOfLaw": "Criminal Procedure / Sixth Amendment",
+    "proceduralPath": [
+      {
+        "courtName": "Circuit Court of Bay County, Florida",
+        "courtLevel": "State Trial Court",
+        "roleInCase": "Clarence Earl Gideon, a 51-year-old drifter, was charged with breaking and entering a poolroom in Panama City, Florida — a felony under state law. He was too poor to hire a lawyer and asked the court to appoint one for him.",
+        "ruling": "The court denied Gideon's request for appointed counsel, citing Florida law which only provided counsel in capital cases. Gideon represented himself, was convicted, and sentenced to five years in state prison.",
+        "keyNotes": [
+          "Gideon conducted his own defense as best he could: he made an opening statement, cross-examined witnesses, and addressed the jury.",
+          "Despite his efforts, he was convicted and sentenced to five years.",
+          "From his prison cell, Gideon hand-wrote a petition in pencil to the U.S. Supreme Court."
+        ]
+      },
+      {
+        "courtName": "Florida Supreme Court",
+        "courtLevel": "State Court of Last Resort",
+        "roleInCase": "Gideon petitioned the Florida Supreme Court for habeas corpus relief, arguing his imprisonment was unconstitutional because he had been denied counsel.",
+        "ruling": "Denied habeas relief, citing Betts v. Brady (1942), which held that the Sixth Amendment's right to counsel was not incorporated against the states.",
+        "keyNotes": [
+          "Betts v. Brady had established that states were only required to appoint counsel in \"special circumstances.\"",
+          "The Florida Supreme Court was bound by that precedent."
+        ]
+      },
+      {
+        "courtName": "U.S. Supreme Court",
+        "courtLevel": "Court of Final Appeal",
+        "roleInCase": "The Supreme Court unanimously ruled in Gideon's favor in an opinion by Justice Hugo Black. Abe Fortas (later a Supreme Court Justice himself) was appointed to argue for Gideon pro bono.",
+        "ruling": "Reversed. The Sixth Amendment's guarantee of the right to counsel is a fundamental right incorporated against the states through the Fourteenth Amendment. States must provide counsel to criminal defendants who cannot afford their own.",
+        "keyNotes": [
+          "The decision overruled Betts v. Brady (1942).",
+          "All nine justices agreed on the outcome, though some differed in reasoning.",
+          "On retrial with a court-appointed lawyer, Gideon was acquitted in under an hour.",
+          "The decision led to the creation of public defender offices across the United States.",
+          "Anthony Lewis's book \"Gideon's Trumpet\" brought the story to wide public attention."
+        ]
+      }
+    ],
+    "finalHolding": "The right of an indigent defendant in a criminal trial to have the assistance of counsel is a fundamental right essential to a fair trial, and petitioner's trial and conviction without the assistance of counsel violated the Fourteenth Amendment. Betts v. Brady is overruled.",
+    "significance": "Gideon v. Wainwright transformed the American criminal justice system by guaranteeing the right to a lawyer for every person facing a serious criminal charge, regardless of ability to pay. The decision led to the creation of public defender systems nationwide and remains a pillar of the constitutional right to a fair trial. Clarence Gideon's handwritten petition — and his acquittal on retrial — stand as a testament to the power of constitutional rights.",
+    "discussionQuestions": [
+      "Does the right to appointed counsel guarantee a fair trial, or does it merely guarantee a lawyer? Are those the same thing?",
+      "How did the overruling of Betts v. Brady illustrate the evolving nature of constitutional interpretation?",
+      "What practical problems have arisen from underfunded public defender offices? Does Gideon's promise remain unfulfilled?",
+      "Why was it significant that Abe Fortas — not a public defender — was appointed to argue Gideon's case?",
+      "How does Gideon interact with Miranda v. Arizona (1966)? Together, what picture do they paint of custodial rights?"
+    ],
+    "primarySources": {
+      "supremeCourtOpinion": "https://supreme.justia.com/cases/federal/us/372/335/",
+      "keyFilings": [
+        {
+          "title": "Oyez Case Summary",
+          "url": "https://www.oyez.org/cases/1962/155",
+          "description": "Audio of oral arguments and full case summary."
+        },
+        {
+          "title": "Gideon's Original Handwritten Petition",
+          "url": "https://www.loc.gov/exhibits/treasures/trm139.html",
+          "description": "The Library of Congress hosts an image of Gideon's hand-written in forma pauperis petition."
+        }
+      ]
+    }
+  },
+  {
+    "id": "mcculloch-v-maryland-1819",
+    "caseName": "McCulloch v. Maryland",
+    "year": 1819,
+    "citation": "17 U.S. 316",
+    "areaOfLaw": "Federal Power / Necessary & Proper Clause",
+    "proceduralPath": [
+      {
+        "courtName": "Baltimore County Court, Maryland",
+        "courtLevel": "State Trial Court",
+        "roleInCase": "James McCulloch, cashier of the Baltimore branch of the Second Bank of the United States, refused to pay a Maryland tax on all banks not chartered by the state. Maryland sued to collect the tax.",
+        "ruling": "Ruled against McCulloch. The court held that Maryland could constitutionally tax the federal bank operating within its borders.",
+        "keyNotes": [
+          "Maryland's tax was designed to drive the federal bank out of the state — it imposed a $15,000 annual tax or required use of state-issued stamped paper.",
+          "The case raised two fundamental questions: whether Congress had power to charter a bank, and whether states could tax federal instrumentalities."
+        ]
+      },
+      {
+        "courtName": "Maryland Court of Appeals",
+        "courtLevel": "State Court of Last Resort",
+        "roleInCase": "McCulloch appealed the trial court's ruling, arguing the federal bank was a valid exercise of congressional power and immune from state taxation.",
+        "ruling": "Affirmed the trial court, upholding Maryland's authority to tax the federal bank.",
+        "keyNotes": [
+          "Both sides agreed to seek Supreme Court review to resolve the constitutional questions definitively."
+        ]
+      },
+      {
+        "courtName": "U.S. Supreme Court",
+        "courtLevel": "Court of Final Appeal",
+        "roleInCase": "Chief Justice John Marshall authored the unanimous opinion. Daniel Webster argued for the bank; Luther Martin for Maryland. The Court addressed whether Congress had power to incorporate a bank and whether states could tax it.",
+        "ruling": "Reversed. Congress had constitutional power to charter the Bank of the United States under the Necessary and Proper Clause, and Maryland could not tax it — \"the power to tax involves the power to destroy.\"",
+        "keyNotes": [
+          "Marshall adopted a broad, expansive interpretation of federal power: \"We must never forget that it is a constitution we are expounding.\"",
+          "The Necessary and Proper Clause was held to be an enlargement, not a restriction, of congressional power.",
+          "The Supremacy Clause prevents states from taxing federal instrumentalities.",
+          "The decision permanently settled the constitutional debate over implied federal powers."
+        ]
+      }
+    ],
+    "finalHolding": "Congress has the power to incorporate a bank under the Necessary and Proper Clause even though the Constitution does not expressly grant that power. A state may not impose a tax on the operations of the federal government, for \"the power to tax involves the power to destroy.\"",
+    "significance": "McCulloch v. Maryland is the foundational case for the doctrine of implied federal powers and broad construction of the Constitution. Chief Justice Marshall's \"loose construction\" reading of the Necessary and Proper Clause — that Congress may choose any convenient means to carry out its enumerated powers — became the template for the expansive federal government of the modern era. The anti-commandeering principle and Supremacy Clause analysis remain central to federalism disputes today.",
+    "discussionQuestions": [
+      "Marshall said we must never forget \"it is a constitution we are expounding.\" What did he mean, and how does that approach differ from a strict textualist reading?",
+      "The \"power to tax involves the power to destroy\" — is this reasoning still valid in the modern administrative state?",
+      "How does the Necessary and Proper Clause interact with the enumerated powers? Does it expand them or just implement them?",
+      "How has McCulloch's broad view of federal power played out in cases like NFIB v. Sebelius (the Affordable Care Act case)?",
+      "Maryland argued that states created the federal government and therefore retain sovereignty over it. Marshall rejected this. Who had the better argument?"
+    ],
+    "primarySources": {
+      "supremeCourtOpinion": "https://supreme.justia.com/cases/federal/us/17/316/",
+      "keyFilings": [
+        {
+          "title": "Oyez Case Summary",
+          "url": "https://www.oyez.org/cases/1789-1850/17us316",
+          "description": "Full case summary, historical background, and oral argument details."
+        }
+      ]
+    }
+  },
+  {
+    "id": "mapp-v-ohio-1961",
+    "caseName": "Mapp v. Ohio",
+    "year": 1961,
+    "citation": "367 U.S. 643",
+    "areaOfLaw": "Criminal Procedure / Fourth Amendment",
+    "proceduralPath": [
+      {
+        "courtName": "Court of Common Pleas, Cuyahoga County, Ohio",
+        "courtLevel": "State Trial Court",
+        "roleInCase": "Cleveland police forcibly entered Dollree Mapp's home without a valid search warrant, claiming to search for a bombing suspect. Instead, they found obscene materials and charged Mapp with possession of obscene literature.",
+        "ruling": "Mapp was convicted of possession of obscene materials and sentenced to prison.",
+        "keyNotes": [
+          "Police broke down Mapp's door after she refused entry. A purported \"warrant\" was waved at her but never produced — it was later found to be a blank piece of paper.",
+          "The search was clearly unreasonable under the Fourth Amendment."
+        ]
+      },
+      {
+        "courtName": "Ohio Supreme Court",
+        "courtLevel": "State Court of Last Resort",
+        "roleInCase": "Mapp appealed, arguing the evidence was obtained by an unlawful search and should be excluded.",
+        "ruling": "Affirmed the conviction. Ohio followed the \"wolf rule\" — the Fourth Amendment applied to the states but states were not required to use the exclusionary rule as a remedy.",
+        "keyNotes": [
+          "At the time, Wolf v. Colorado (1949) held the Fourth Amendment applied to states via the Fourteenth Amendment but left enforcement mechanisms to state discretion.",
+          "Ohio used a rule allowing illegally seized evidence at trial."
+        ]
+      },
+      {
+        "courtName": "U.S. Supreme Court",
+        "courtLevel": "Court of Final Appeal",
+        "roleInCase": "Justice Tom Clark authored the 6-3 majority opinion. The case was argued primarily on First Amendment obscenity grounds, but the Court resolved it on Fourth Amendment exclusionary rule grounds.",
+        "ruling": "Reversed. The exclusionary rule — prohibiting the use of illegally obtained evidence at trial — is an essential part of the Fourth and Fourteenth Amendments and applies to state criminal proceedings.",
+        "keyNotes": [
+          "The exclusionary rule had previously applied only in federal courts (Weeks v. United States, 1914).",
+          "Mapp incorporated the exclusionary rule against the states, transforming Fourth Amendment enforcement nationwide.",
+          "Justice Harlan's dissent criticized the Court for resolving a constitutional question not fully briefed by the parties.",
+          "The decision created significant debate about the \"social costs\" of suppressing reliable, probative evidence."
+        ]
+      }
+    ],
+    "finalHolding": "All evidence obtained by searches and seizures in violation of the Fourth Amendment is inadmissible in a state criminal proceeding. The exclusionary rule is an essential part of both the Fourth and Fourteenth Amendments.",
+    "significance": "Mapp v. Ohio revolutionized state criminal procedure by incorporating the exclusionary rule against the states. Before Mapp, police in most states could use illegally seized evidence at trial with impunity. After Mapp, evidence obtained in violation of the Fourth Amendment is generally suppressed in both federal and state courts. The decision forced law enforcement to comply with constitutional search-and-seizure rules or risk losing prosecutions.",
+    "discussionQuestions": [
+      "The exclusionary rule punishes the prosecution for police misconduct — is this the right remedy? What alternatives exist?",
+      "Does suppressing reliable, probative evidence undermine truth-seeking in criminal trials? How should courts weigh that cost?",
+      "How has the \"good faith\" exception (United States v. Leon, 1984) modified the exclusionary rule?",
+      "Should the exclusionary rule apply in civil proceedings, immigration hearings, and grand jury investigations?",
+      "Justice Harlan dissented on the ground that the Court decided a major constitutional question without full briefing. Is judicial restraint more important than getting the right answer?"
+    ],
+    "primarySources": {
+      "supremeCourtOpinion": "https://supreme.justia.com/cases/federal/us/367/643/",
+      "keyFilings": [
+        {
+          "title": "Oyez Case Summary",
+          "url": "https://www.oyez.org/cases/1960/236",
+          "description": "Audio of oral arguments and full case summary."
+        }
+      ]
+    }
+  },
+  {
+    "id": "katz-v-united-states-1967",
+    "caseName": "Katz v. United States",
+    "year": 1967,
+    "citation": "389 U.S. 347",
+    "areaOfLaw": "Criminal Procedure / Fourth Amendment",
+    "proceduralPath": [
+      {
+        "courtName": "U.S. District Court for the Southern District of California",
+        "courtLevel": "Federal Trial Court",
+        "roleInCase": "Charles Katz was convicted of transmitting wagering information across state lines by telephone. FBI agents had attached an electronic listening device to the outside of a public phone booth without a warrant and recorded his conversations.",
+        "ruling": "Denied Katz's motion to suppress the recordings. The court held that the Fourth Amendment did not protect information transmitted from a public telephone booth visible to the public.",
+        "keyNotes": [
+          "The FBI agents did not physically intrude into the phone booth — they attached the device to the exterior.",
+          "The government argued that because Katz was visible through the glass walls, there was no protected privacy interest."
+        ]
+      },
+      {
+        "courtName": "U.S. Court of Appeals for the Ninth Circuit",
+        "courtLevel": "Federal Intermediate Court",
+        "roleInCase": "Katz appealed, arguing the wiretap violated his Fourth Amendment rights.",
+        "ruling": "Affirmed the conviction, reasoning that the Fourth Amendment required a physical intrusion into a constitutionally protected area — which had not occurred here.",
+        "keyNotes": [
+          "The Ninth Circuit followed the then-prevailing \"trespass doctrine\" from Olmstead v. United States (1928)."
+        ]
+      },
+      {
+        "courtName": "U.S. Supreme Court",
+        "courtLevel": "Court of Final Appeal",
+        "roleInCase": "Justice Potter Stewart wrote the majority opinion. Justice Harlan wrote a concurrence articulating the \"reasonable expectation of privacy\" test that became the operative standard.",
+        "ruling": "Reversed. The Fourth Amendment protects people, not places. The government's warrantless wiretap of a public phone booth violated Katz's reasonable expectation of privacy.",
+        "keyNotes": [
+          "Katz overruled the trespass doctrine from Olmstead v. United States (1928).",
+          "Justice Harlan's two-part concurrence — (1) subjective expectation of privacy + (2) society recognizes that expectation as reasonable — became the controlling test.",
+          "The majority's holding: \"The Fourth Amendment protects people, not places.\"",
+          "Katz fundamentally shaped how courts analyze digital surveillance, cell phones, and internet privacy."
+        ]
+      }
+    ],
+    "finalHolding": "The Fourth Amendment protects people, not places. A warrantless wiretap of a public telephone booth violates the Fourth Amendment where the person using it has a reasonable expectation of privacy in the conversation, regardless of whether the government physically intruded into the booth.",
+    "significance": "Katz v. United States abandoned the physical trespass doctrine and replaced it with the \"reasonable expectation of privacy\" test — one of the most influential standards in constitutional law. Justice Harlan's concurrence became the dominant framework for analyzing Fourth Amendment claims and governs how courts evaluate new surveillance technologies, from cell phones (Carpenter v. United States, 2018) to GPS tracking (United States v. Jones, 2012).",
+    "discussionQuestions": [
+      "Justice Harlan's \"reasonable expectation of privacy\" test is judge-made doctrine from a concurrence. Is it a legitimate constitutional standard?",
+      "How should courts apply Katz to technologies that did not exist in 1967 — cell phones, cloud storage, email, smart devices?",
+      "Is \"what society recognizes as reasonable\" a stable standard, or does it shift with technology and cultural norms?",
+      "Carpenter v. United States (2018) held that cell phone location records require a warrant. Does this represent an extension or erosion of Katz?",
+      "Should the reasonable expectation of privacy test be replaced? Some justices have proposed a return to property-based analysis. Which is better?"
+    ],
+    "primarySources": {
+      "supremeCourtOpinion": "https://supreme.justia.com/cases/federal/us/389/347/",
+      "keyFilings": [
+        {
+          "title": "Oyez Case Summary",
+          "url": "https://www.oyez.org/cases/1967/35",
+          "description": "Audio of oral arguments and full case summary."
+        }
+      ]
+    }
+  },
+  {
+    "id": "terry-v-ohio-1968",
+    "caseName": "Terry v. Ohio",
+    "year": 1968,
+    "citation": "392 U.S. 1",
+    "areaOfLaw": "Criminal Procedure / Fourth Amendment",
+    "proceduralPath": [
+      {
+        "courtName": "Common Pleas Court, Cuyahoga County, Ohio",
+        "courtLevel": "State Trial Court",
+        "roleInCase": "Detective Martin McFadden, a veteran officer with 39 years of experience, observed John Terry and others acting suspiciously — repeatedly walking past and peering into a store window in a pattern he recognized as casing for a robbery. McFadden stopped and frisked Terry without a warrant or probable cause, finding a concealed weapon.",
+        "ruling": "Terry was convicted of carrying a concealed weapon. The court denied his motion to suppress, holding the stop and frisk was reasonable.",
+        "keyNotes": [
+          "McFadden acted on his experience and training, not on specific knowledge of criminal activity.",
+          "The key constitutional question was whether something less than probable cause could justify a stop and limited frisk."
+        ]
+      },
+      {
+        "courtName": "Ohio Court of Appeals",
+        "courtLevel": "State Intermediate Court",
+        "roleInCase": "Terry appealed the denial of the suppression motion.",
+        "ruling": "Affirmed the conviction.",
+        "keyNotes": []
+      },
+      {
+        "courtName": "U.S. Supreme Court",
+        "courtLevel": "Court of Final Appeal",
+        "roleInCase": "Chief Justice Warren authored the 8-1 opinion — one of his last major criminal procedure decisions. The Court confronted the tension between the Fourth Amendment and effective law enforcement.",
+        "ruling": "Affirmed. A police officer may briefly stop a person and conduct a limited pat-down for weapons based on specific, articulable facts giving rise to reasonable suspicion of criminal activity — even without probable cause for arrest.",
+        "keyNotes": [
+          "The Court created a new constitutional category: the \"Terry stop\" — a brief investigative detention below the level of full arrest.",
+          "The standard is \"reasonable suspicion\" based on specific articulable facts — lower than probable cause.",
+          "The frisk is limited to a pat-down for weapons to protect officer safety.",
+          "Justice Douglas dissented, arguing only a magistrate could authorize an intrusion below the level of probable cause.",
+          "Terry has been enormously controversial, particularly in the context of \"stop and frisk\" programs and racial disparities in policing."
+        ]
+      }
+    ],
+    "finalHolding": "Where a police officer observes unusual conduct giving rise to reasonable suspicion that criminal activity may be afoot and that the person may be armed and dangerous, the officer may stop and briefly detain the person and conduct a carefully limited search of the outer clothing for weapons.",
+    "significance": "Terry v. Ohio created the constitutional framework for investigative stops throughout the United States. By authorizing detention on \"reasonable suspicion\" — a standard far below probable cause — the decision gave police broad latitude to stop and question individuals. Terry stops have been central to American policing strategy for decades and have generated sustained controversy over racial profiling, particularly in programs like the New York City stop-and-frisk initiative struck down in Floyd v. City of New York (2013).",
+    "discussionQuestions": [
+      "Is \"reasonable suspicion\" a sufficiently clear standard to prevent arbitrary stops? Who defines what is \"reasonable\"?",
+      "How does Terry interact with documented patterns of racial disparities in stop-and-frisk enforcement?",
+      "Justice Douglas dissented because he believed only a neutral magistrate could authorize a stop below probable cause. Is judicial pre-authorization workable for street encounters?",
+      "Where is the line between a Terry stop and a full arrest? What happens when a \"brief\" stop extends for 45 minutes?",
+      "Should Terry be overruled, narrowed, or left as-is? What would happen to policing practice if probable cause were required for all stops?"
+    ],
+    "primarySources": {
+      "supremeCourtOpinion": "https://supreme.justia.com/cases/federal/us/392/1/",
+      "keyFilings": [
+        {
+          "title": "Oyez Case Summary",
+          "url": "https://www.oyez.org/cases/1967/67",
+          "description": "Audio of oral arguments and full case summary."
+        }
+      ]
+    }
+  },
+  {
+    "id": "escobedo-v-illinois-1964",
+    "caseName": "Escobedo v. Illinois",
+    "year": 1964,
+    "citation": "378 U.S. 478",
+    "areaOfLaw": "Criminal Procedure / Sixth Amendment",
+    "proceduralPath": [
+      {
+        "courtName": "Criminal Court of Cook County, Illinois",
+        "courtLevel": "State Trial Court",
+        "roleInCase": "Danny Escobedo was arrested in connection with the murder of his brother-in-law. During interrogation, he repeatedly asked to see his attorney, who was physically present at the police station and also requesting access to his client. Both requests were denied. Escobedo eventually made incriminating statements that were used to convict him of murder.",
+        "ruling": "Convicted of murder. The incriminating statements were admitted into evidence over objection.",
+        "keyNotes": [
+          "Escobedo's attorney was at the station and was told he could not see his client.",
+          "Police told Escobedo that his co-suspect had implicated him, prompting his incriminating response.",
+          "The interrogation was a focused accusatory proceeding, not a general investigation."
+        ]
+      },
+      {
+        "courtName": "Illinois Supreme Court",
+        "courtLevel": "State Court of Last Resort",
+        "roleInCase": "Escobedo appealed, arguing his Sixth Amendment right to counsel was violated when police denied his request to see his attorney during interrogation.",
+        "ruling": "Affirmed the conviction. The court held the denial of counsel did not violate Escobedo's constitutional rights because he had not yet been formally charged.",
+        "keyNotes": [
+          "Illinois courts applied the prevailing rule that the right to counsel attached only after formal charges were filed."
+        ]
+      },
+      {
+        "courtName": "U.S. Supreme Court",
+        "courtLevel": "Court of Final Appeal",
+        "roleInCase": "Justice Arthur Goldberg wrote the 5-4 majority opinion. The Court addressed whether the Sixth Amendment right to counsel extended to the pre-indictment interrogation phase.",
+        "ruling": "Reversed. When an investigation has focused on a specific suspect and the suspect requests counsel, the denial of that request violates the Sixth Amendment. Any statements obtained must be suppressed.",
+        "keyNotes": [
+          "Escobedo was decided two years before Miranda (1966) and laid the groundwork for it.",
+          "The Court focused on the \"accusatory stage\" — once the investigation focuses on a particular suspect, the adversarial process has begun.",
+          "Miranda later superseded Escobedo's Sixth Amendment analysis with a Fifth Amendment framework applicable to all custodial interrogations.",
+          "Escobedo remains significant as the bridge between Gideon (right to counsel at trial) and Miranda (right during interrogation)."
+        ]
+      }
+    ],
+    "finalHolding": "Where an investigation has ceased to be a general inquiry and has focused on a particular suspect who has requested and been denied counsel, and who has not been warned of his constitutional right to remain silent, the accused has been denied the assistance of counsel in violation of the Sixth Amendment.",
+    "significance": "Escobedo v. Illinois was a critical transitional case between Gideon v. Wainwright (1963) and Miranda v. Arizona (1966). It extended the right to counsel into the interrogation room for the first time, recognizing that the accusatory process begins not at formal charging but when the investigation targets a specific suspect. Although Miranda later reframed the doctrine on Fifth Amendment grounds, Escobedo remains essential to understanding the evolution of custodial rights.",
+    "discussionQuestions": [
+      "How does Escobedo fit chronologically and doctrinally between Gideon (1963) and Miranda (1966)?",
+      "The majority held the right to counsel attaches when the investigation \"focuses\" on a suspect. Is this a workable standard for police to apply in the field?",
+      "Did Miranda effectively supersede Escobedo? Are there situations where Escobedo still provides broader protection?",
+      "The 5-4 split in Escobedo reflects the same tension as Miranda — balancing law enforcement effectiveness against individual rights. How should that balance be struck?",
+      "Danny Escobedo's case was retried without the confessions. How does that outcome affect your view of the suppression rule?"
+    ],
+    "primarySources": {
+      "supremeCourtOpinion": "https://supreme.justia.com/cases/federal/us/378/478/",
+      "keyFilings": [
+        {
+          "title": "Oyez Case Summary",
+          "url": "https://www.oyez.org/cases/1963/615",
+          "description": "Audio of oral arguments and full case summary."
+        }
+      ]
+    }
+  },
+  {
+    "id": "monell-v-nyc-dept-social-services-1978",
+    "caseName": "Monell v. Department of Social Services",
+    "year": 1978,
+    "citation": "436 U.S. 658",
+    "areaOfLaw": "Civil Rights / Municipal Liability / § 1983",
+    "proceduralPath": [
+      {
+        "courtName": "U.S. District Court for the Southern District of New York",
+        "courtLevel": "Federal Trial Court",
+        "roleInCase": "Jane Monell and other female employees of the New York City Department of Social Services and Board of Education sued under § 1983, claiming the city's official policy of forcing pregnant employees to take unpaid leave violated their constitutional rights. The threshold question was whether a local government could be sued under § 1983 at all.",
+        "ruling": "Dismissed. The court held that Monroe v. Pape (1961) barred § 1983 suits against municipalities — only individual officers could be defendants.",
+        "keyNotes": [
+          "Monroe v. Pape (1961) had interpreted § 1983 to exclude municipalities from its coverage based on legislative history.",
+          "This ruling left plaintiffs with no direct remedy against local governments for systemic constitutional violations."
+        ]
+      },
+      {
+        "courtName": "U.S. Court of Appeals for the Second Circuit",
+        "courtLevel": "Federal Intermediate Court",
+        "roleInCase": "Plaintiffs appealed the dismissal of the municipal defendants.",
+        "ruling": "Affirmed, following the Monroe v. Pape rule excluding municipalities from § 1983 liability.",
+        "keyNotes": []
+      },
+      {
+        "courtName": "U.S. Supreme Court",
+        "courtLevel": "Court of Final Appeal",
+        "roleInCase": "Justice Brennan wrote the majority opinion, undertaking an exhaustive review of the legislative history of the Civil Rights Act of 1871 that Monroe v. Pape had relied upon.",
+        "ruling": "Reversed in part. Municipalities and other local government entities are \"persons\" subject to suit under § 1983 — but only when the constitutional violation results from an official policy or custom of the municipality, not solely from the acts of individual employees.",
+        "keyNotes": [
+          "Monell partially overruled Monroe v. Pape to the extent Monroe excluded municipalities from § 1983 coverage.",
+          "The \"policy or custom\" requirement prevents municipalities from being liable under respondeat superior for every act of a rogue officer.",
+          "Official policy includes formal written policies, decisions by final policymakers, widespread practices, and deliberate indifference to a known risk.",
+          "Monell opened the door to systemic reform litigation against police departments, jails, and other local institutions."
+        ]
+      }
+    ],
+    "finalHolding": "Local government entities are \"persons\" subject to suit under 42 U.S.C. § 1983. However, a municipality may only be held liable when the plaintiff can show that the constitutional violation was caused by an official policy or custom of the municipality — respondeat superior liability does not apply.",
+    "significance": "Monell v. Department of Social Services transformed civil rights litigation by making local governments directly accountable for systemic constitutional violations. Before Monell, plaintiffs could only sue individual officers — not the institutions behind them. After Monell, plaintiffs could seek injunctive reform and damages against municipalities when they could trace the violation to official policy, widespread practice, or deliberate indifference. Monell claims are now central to police misconduct, prison conditions, and public school civil rights cases.",
+    "discussionQuestions": [
+      "Why did the Court reject respondeat superior liability for municipalities? Is the \"policy or custom\" requirement too restrictive for victims of police misconduct?",
+      "What qualifies as an \"official policy\" under Monell? How do courts distinguish a rogue officer from a systemic failure?",
+      "How does the combination of Monell liability and qualified immunity affect the practical ability of plaintiffs to obtain compensation for civil rights violations?",
+      "Should municipalities be subject to the same respondeat superior rules as private employers? What policy considerations cut both ways?",
+      "How has Monell been used to challenge patterns of unconstitutional policing, and how effective has it been as a reform tool?"
+    ],
+    "primarySources": {
+      "supremeCourtOpinion": "https://supreme.justia.com/cases/federal/us/436/658/",
+      "keyFilings": [
+        {
+          "title": "Oyez Case Summary",
+          "url": "https://www.oyez.org/cases/1977/75-1914",
+          "description": "Full case summary and oral argument."
+        }
+      ]
+    }
+  },
+  {
+    "id": "chevron-v-nrdc-1984",
+    "caseName": "Chevron U.S.A. v. Natural Resources Defense Council",
+    "year": 1984,
+    "citation": "467 U.S. 837",
+    "areaOfLaw": "Administrative Law / Agency Deference",
+    "proceduralPath": [
+      {
+        "courtName": "U.S. District Court for the District of Columbia",
+        "courtLevel": "Federal Trial Court",
+        "roleInCase": "The Natural Resources Defense Council challenged an EPA regulation interpreting the term \"stationary source\" under the Clean Air Act Amendments of 1977. The EPA had adopted a \"bubble policy\" that treated an entire industrial plant as a single emission source, allowing trade-offs between different pollution points within the facility.",
+        "ruling": "Upheld the EPA regulation as a reasonable interpretation of the statute.",
+        "keyNotes": [
+          "The case arose from the Reagan EPA's more permissive interpretation of the Clean Air Act.",
+          "The central question was how much deference courts owe to an agency's interpretation of its own governing statute."
+        ]
+      },
+      {
+        "courtName": "U.S. Court of Appeals for the D.C. Circuit",
+        "courtLevel": "Federal Intermediate Court",
+        "roleInCase": "NRDC appealed, arguing the EPA's interpretation contradicted congressional intent.",
+        "ruling": "Reversed, finding the EPA's interpretation inconsistent with the statute.",
+        "keyNotes": [
+          "The D.C. Circuit applied its own judgment as to the correct statutory meaning — the approach Chevron would reject."
+        ]
+      },
+      {
+        "courtName": "U.S. Supreme Court",
+        "courtLevel": "Court of Final Appeal",
+        "roleInCase": "Justice Stevens authored the unanimous opinion. The Court created a two-step framework for judicial review of agency statutory interpretation that became the most-cited administrative law case in American history.",
+        "ruling": "Reversed. Courts must defer to a federal agency's reasonable interpretation of an ambiguous statute that Congress has charged the agency to administer.",
+        "keyNotes": [
+          "Chevron Step One: Has Congress directly addressed the precise question? If so, the statutory text controls.",
+          "Chevron Step Two: If the statute is ambiguous, is the agency's interpretation reasonable? If so, courts must defer to it.",
+          "Chevron deference was premised on the idea that Congress implicitly delegates interpretive authority to agencies when statutes are ambiguous.",
+          "In Loper Bright Enterprises v. Raimondo (2024), the Supreme Court overruled Chevron, ending the era of mandatory agency deference.",
+          "Despite being overruled, Chevron shaped administrative law for 40 years and hundreds of agency interpretations remain valid under other doctrines."
+        ]
+      }
+    ],
+    "finalHolding": "When a court reviews an agency's construction of the statute which it administers, if Congress has not directly addressed the precise question at issue, the court does not simply impose its own construction but rather must defer to the agency's interpretation if it is based on a permissible construction of the statute.",
+    "significance": "Chevron U.S.A. v. NRDC was the most cited administrative law case in American legal history for four decades, fundamentally shaping the relationship between courts, Congress, and the administrative state. Its two-step deference framework governed thousands of judicial decisions across virtually every area of federal regulation. In 2024, the Supreme Court overruled Chevron in Loper Bright Enterprises v. Raimondo, ending mandatory deference and requiring courts to independently interpret ambiguous statutes — a seismic shift in the balance of power between the judiciary and the executive branch.",
+    "discussionQuestions": [
+      "What is the democratic justification for deferring to agency interpretations rather than having courts decide statutory meaning independently?",
+      "Chevron was premised on an implied congressional delegation of interpretive authority. Is that premise realistic or a legal fiction?",
+      "How does Loper Bright's overruling of Chevron change the balance of power between courts, agencies, and Congress?",
+      "Will the post-Chevron world produce more consistent or less consistent statutory interpretation across circuits?",
+      "Should courts defer to agency expertise in technical areas (environmental science, drug regulation) even after Loper Bright?"
+    ],
+    "primarySources": {
+      "supremeCourtOpinion": "https://supreme.justia.com/cases/federal/us/467/837/",
+      "keyFilings": [
+        {
+          "title": "Oyez Case Summary",
+          "url": "https://www.oyez.org/cases/1983/82-1005",
+          "description": "Full case summary and analysis."
+        },
+        {
+          "title": "Loper Bright Enterprises v. Raimondo (2024) — Overruling Opinion",
+          "url": "https://supreme.justia.com/cases/federal/us/603/22-451/",
+          "description": "The 2024 decision that overruled Chevron deference."
+        }
+      ]
+    }
+  },
+  {
+    "id": "dc-v-heller-2008",
+    "caseName": "District of Columbia v. Heller",
+    "year": 2008,
+    "citation": "554 U.S. 570",
+    "areaOfLaw": "Second Amendment / Individual Rights",
+    "proceduralPath": [
+      {
+        "courtName": "U.S. District Court for the District of Columbia",
+        "courtLevel": "Federal Trial Court",
+        "roleInCase": "Dick Heller, a D.C. special police officer, was denied a permit to keep a handgun in his home under the District's Firearms Control Regulations Act, which effectively banned handgun possession in the home and required firearms to be kept unloaded and disassembled or bound by a trigger lock.",
+        "ruling": "Dismissed the complaint. The court held that the Second Amendment applied only to militia service and did not protect an individual right to keep a handgun at home.",
+        "keyNotes": [
+          "The D.C. gun ban was among the strictest in the country.",
+          "The case was a carefully organized test case brought by libertarian lawyer Robert Levy to challenge the individual rights question directly."
+        ]
+      },
+      {
+        "courtName": "U.S. Court of Appeals for the D.C. Circuit",
+        "courtLevel": "Federal Intermediate Court",
+        "roleInCase": "Heller appealed, arguing the Second Amendment protects an individual right to possess firearms independent of militia service.",
+        "ruling": "Reversed. The D.C. Circuit held the Second Amendment protects an individual right to keep and bear arms unconnected to militia service, and struck down the handgun ban.",
+        "keyNotes": [
+          "This was the first federal appellate decision holding the Second Amendment protects an individual right."
+        ]
+      },
+      {
+        "courtName": "U.S. Supreme Court",
+        "courtLevel": "Court of Final Appeal",
+        "roleInCase": "Justice Antonin Scalia wrote the 5-4 majority opinion applying a detailed textual and historical analysis of the Second Amendment. Justice Stevens wrote the principal dissent.",
+        "ruling": "Affirmed. The Second Amendment protects an individual right to possess a firearm independent of service in a militia, and to use that firearm for traditionally lawful purposes such as self-defense within the home.",
+        "keyNotes": [
+          "The majority conducted an exhaustive textual and historical analysis of the phrases \"keep and bear Arms\" and \"well regulated Militia.\"",
+          "Heller struck down D.C.'s handgun ban and the requirement to keep firearms stored inoperable.",
+          "The Court explicitly stated the right is not unlimited — laws prohibiting felons and the mentally ill from possessing firearms, and restrictions on carrying in sensitive places, remain constitutional.",
+          "McDonald v. City of Chicago (2010) incorporated the Heller right against the states via the Fourteenth Amendment.",
+          "New York State Rifle & Pistol Ass'n v. Bruen (2022) extended Heller and replaced the two-part interest-balancing test with a historical tradition analysis."
+        ]
+      }
+    ],
+    "finalHolding": "The Second Amendment protects an individual right to possess a firearm unconnected to service in a militia, and to use that firearm for traditionally lawful purposes, such as self-defense within the home. The District of Columbia's ban on handgun possession in the home violates this right.",
+    "significance": "District of Columbia v. Heller settled a decades-long debate over the meaning of the Second Amendment, holding for the first time that it protects an individual right to keep arms for self-defense. The decision reshaped gun regulation litigation nationwide. Its methodology — exhaustive historical and textual analysis — became a model for originalist constitutional interpretation, and the Court expanded on it in Bruen (2022), which requires all gun regulations to be justified by historical tradition dating to the founding era.",
+    "discussionQuestions": [
+      "Scalia's majority and Stevens' dissent both claim to be faithful to the text and history of the Second Amendment. How can two careful readers reach opposite conclusions?",
+      "Heller holds the right is not unlimited. Who decides which regulations fall within the historical tradition of permissible limits?",
+      "How does the Bruen (2022) historical-tradition test change the analysis for modern gun regulations — assault weapons bans, large-capacity magazine restrictions, red flag laws?",
+      "Should courts apply heightened scrutiny to gun regulations, or the Bruen historical approach? Which is more administrable?",
+      "How does Heller interact with public health data on gun violence? Should social science evidence play a role in constitutional interpretation?"
+    ],
+    "primarySources": {
+      "supremeCourtOpinion": "https://supreme.justia.com/cases/federal/us/554/570/",
+      "keyFilings": [
+        {
+          "title": "Oyez Case Summary",
+          "url": "https://www.oyez.org/cases/2007/07-290",
+          "description": "Audio of oral arguments and full case summary."
+        },
+        {
+          "title": "McDonald v. City of Chicago (2010)",
+          "url": "https://supreme.justia.com/cases/federal/us/561/742/",
+          "description": "The follow-on decision incorporating the Heller right against the states."
+        }
+      ]
+    }
+  },
+  {
+    "id": "dobbs-v-jackson-2022",
+    "caseName": "Dobbs v. Jackson Women's Health Organization",
+    "year": 2022,
+    "citation": "597 U.S. 215",
+    "areaOfLaw": "Constitutional Law / Substantive Due Process / Stare Decisis",
+    "proceduralPath": [
+      {
+        "courtName": "U.S. District Court for the Southern District of Mississippi",
+        "courtLevel": "Federal Trial Court",
+        "roleInCase": "Jackson Women's Health Organization, the only licensed abortion facility in Mississippi, challenged the state's Gestational Age Act, which banned abortions after 15 weeks of pregnancy — well before fetal viability.",
+        "ruling": "Permanently enjoined the Mississippi law. The court held it directly conflicted with Roe v. Wade and Planned Parenthood v. Casey (1992), which protected abortion access until viability (approximately 22-24 weeks).",
+        "keyNotes": [
+          "The Mississippi law was openly designed to challenge the viability line from Roe and Casey.",
+          "The District Court found the law unconstitutional under binding Supreme Court precedent."
+        ]
+      },
+      {
+        "courtName": "U.S. Court of Appeals for the Fifth Circuit",
+        "courtLevel": "Federal Intermediate Court",
+        "roleInCase": "Mississippi appealed, defending the 15-week ban.",
+        "ruling": "Affirmed the injunction. The Fifth Circuit held it was bound by Roe and Casey and could not uphold a pre-viability abortion ban.",
+        "keyNotes": [
+          "Mississippi's petition to the Supreme Court explicitly asked the Court to overrule Roe and Casey."
+        ]
+      },
+      {
+        "courtName": "U.S. Supreme Court",
+        "courtLevel": "Court of Final Appeal",
+        "roleInCase": "Justice Alito authored the majority opinion, joined by five justices. Chief Justice Roberts concurred in the judgment but would have upheld only the 15-week ban without overruling Roe. Justices Breyer, Sotomayor, and Kagan dissented jointly.",
+        "ruling": "Reversed. Roe v. Wade and Planned Parenthood v. Casey are overruled. The Constitution does not confer a right to abortion; regulation of abortion must be returned to the people and their elected representatives.",
+        "keyNotes": [
+          "The majority applied the Glucksberg test: substantive due process protects only rights \"deeply rooted in this Nation's history and tradition.\"",
+          "The majority found that abortion was not historically protected — most states criminalized it at the time of the Fourteenth Amendment's ratification.",
+          "The decision is one of the few instances in history where the Supreme Court has eliminated a previously recognized fundamental right.",
+          "Dobbs triggered automatic \"trigger laws\" in roughly half of U.S. states, immediately banning or severely restricting abortion.",
+          "The majority opinion was leaked to the press six weeks before the official decision — an unprecedented breach of Court confidentiality."
+        ]
+      }
+    ],
+    "finalHolding": "The Constitution does not confer a right to abortion. Roe v. Wade and Planned Parenthood v. Casey are overruled. The authority to regulate abortion is returned to the people and their elected representatives. A state law banning abortions after 15 weeks of pregnancy is constitutional.",
+    "significance": "Dobbs v. Jackson Women's Health Organization is one of the most consequential Supreme Court decisions in modern history. By overruling Roe v. Wade — which had stood for nearly 50 years — the Court eliminated a previously recognized fundamental constitutional right for the first time in the modern era. The decision immediately transformed abortion law across the country, triggering bans in approximately half of U.S. states. Dobbs also reignited foundational debates about stare decisis, originalism, substantive due process, and the legitimacy of the Supreme Court.",
+    "discussionQuestions": [
+      "Is Dobbs a model of principled originalism, or does it selectively apply historical analysis? How do you evaluate the majority's historical argument?",
+      "Roe had stood for 49 years. What does stare decisis require when a precedent is this entrenched? Did the Court apply a consistent standard?",
+      "The dissent argued Dobbs threatens other substantive due process rights — contraception, same-sex marriage, interracial marriage. Is that a slippery-slope argument or a legitimate doctrinal concern?",
+      "Justice Alito distinguished Dobbs from other substantive due process rights by pointing to abortion's unique moral dimension. Is that a principled distinction?",
+      "What does Dobbs reveal about how the composition of the Court affects constitutional rights? Should fundamental rights be more or less insulated from shifts in judicial personnel?"
+    ],
+    "primarySources": {
+      "supremeCourtOpinion": "https://supreme.justia.com/cases/federal/us/597/19-1392/",
+      "keyFilings": [
+        {
+          "title": "Oyez Case Summary",
+          "url": "https://www.oyez.org/cases/2021/19-1392",
+          "description": "Audio of oral arguments and full case summary."
+        },
+        {
+          "title": "Roe v. Wade (1973) — Overruled Opinion",
+          "url": "https://supreme.justia.com/cases/federal/us/410/113/",
+          "description": "The original 1973 decision that Dobbs overruled."
+        }
+      ]
+    }
+  }
+]

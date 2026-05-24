@@ -1,0 +1,926 @@
+[
+  {
+    "id": "q-brown-held",
+    "category": "holding",
+    "difficulty": "easy",
+    "question": "Which Supreme Court case declared racial segregation in public schools unconstitutional?",
+    "options": [
+      "Plessy v. Ferguson (1896)",
+      "Brown v. Board of Education (1954)",
+      "Marbury v. Madison (1803)",
+      "Miranda v. Arizona (1966)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Brown v. Board of Education (1954) unanimously held that \"separate but equal\" public schools violated the Equal Protection Clause of the Fourteenth Amendment, overruling Plessy v. Ferguson.",
+    "relatedCaseId": "brown-v-board-1954"
+  },
+  {
+    "id": "q-marbury-doctrine",
+    "category": "holding",
+    "difficulty": "easy",
+    "question": "Marbury v. Madison (1803) established which foundational constitutional doctrine?",
+    "options": [
+      "Executive privilege",
+      "Judicial review",
+      "The right to privacy",
+      "Incorporation of the Bill of Rights"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chief Justice Marshall held it is 'emphatically the province of the judicial department to say what the law is,' establishing the power of federal courts to strike down unconstitutional acts of Congress.",
+    "relatedCaseId": "marbury-v-madison-1803"
+  },
+  {
+    "id": "q-miranda-rights",
+    "category": "holding",
+    "difficulty": "easy",
+    "question": "Miranda v. Arizona (1966) required police to inform suspects of which rights before custodial interrogation?",
+    "options": [
+      "Right to bail and right to a speedy trial",
+      "Right to remain silent and right to an attorney",
+      "Right to confront witnesses and right to a jury",
+      "Right to appeal and right to counsel on appeal"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Court held that suspects must be advised of their Fifth Amendment right to remain silent and their Sixth Amendment right to counsel before any custodial interrogation — giving rise to the 'Miranda warning.'",
+    "relatedCaseId": "miranda-v-arizona-1966"
+  },
+  {
+    "id": "q-nixon-privilege",
+    "category": "holding",
+    "difficulty": "medium",
+    "question": "In United States v. Nixon (1974), the Supreme Court ruled that executive privilege is:",
+    "options": [
+      "Absolute and unreviewable by the courts",
+      "Constitutionally based but not absolute — specific evidentiary needs can override it",
+      "Only available in national security matters",
+      "A statutory right that Congress can eliminate"
+    ],
+    "correctIndex": 1,
+    "explanation": "The unanimous Court recognized that executive privilege has a constitutional basis but held it is not absolute. The demonstrated need for evidence in a criminal trial outweighed the generalized claim of confidentiality.",
+    "relatedCaseId": "united-states-v-nixon-1974"
+  },
+  {
+    "id": "q-roe-overruled",
+    "category": "case-identification",
+    "difficulty": "easy",
+    "question": "Which 2022 Supreme Court decision overruled Roe v. Wade?",
+    "options": [
+      "Planned Parenthood v. Casey",
+      "Whole Woman's Health v. Hellerstedt",
+      "Dobbs v. Jackson Women's Health Organization",
+      "Gonzales v. Carhart"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dobbs v. Jackson Women's Health Organization (2022) overruled both Roe v. Wade and Planned Parenthood v. Casey, holding there is no constitutional right to abortion and returning the question to individual states.",
+    "relatedCaseId": "roe-v-wade-1973"
+  },
+  {
+    "id": "q-brown-trial",
+    "category": "procedural",
+    "difficulty": "medium",
+    "question": "At which court did the Brown v. Board of Education litigation begin?",
+    "options": [
+      "The Kansas Supreme Court",
+      "The U.S. Court of Appeals for the Tenth Circuit",
+      "The U.S. District Court for the District of Kansas",
+      "The U.S. Supreme Court on original jurisdiction"
+    ],
+    "correctIndex": 2,
+    "explanation": "Oliver Brown filed suit in the U.S. District Court for the District of Kansas, which ruled against the plaintiffs. The NAACP deliberately sought a ruling on the merits to create a clear record for appeal.",
+    "relatedCaseId": "brown-v-board-1954"
+  },
+  {
+    "id": "q-miranda-trial-court",
+    "category": "procedural",
+    "difficulty": "medium",
+    "question": "Before reaching the Supreme Court, Miranda v. Arizona was decided by which intermediate court?",
+    "options": [
+      "The U.S. Court of Appeals for the Ninth Circuit",
+      "The Arizona Court of Appeals",
+      "The Arizona Supreme Court",
+      "The U.S. District Court for Arizona"
+    ],
+    "correctIndex": 2,
+    "explanation": "After conviction in Maricopa County Superior Court, Miranda appealed to the Arizona Supreme Court, which affirmed the conviction. The U.S. Supreme Court then granted certiorari.",
+    "relatedCaseId": "miranda-v-arizona-1966"
+  },
+  {
+    "id": "q-nixon-bypass",
+    "category": "procedural",
+    "difficulty": "hard",
+    "question": "United States v. Nixon (1974) was unusual procedurally because:",
+    "options": [
+      "It was filed as an original action in the Supreme Court",
+      "The Supreme Court accepted the case on direct appeal, bypassing the D.C. Circuit",
+      "The President personally appeared and argued before the Court",
+      "Congress passed a special act granting the Court jurisdiction"
+    ],
+    "correctIndex": 1,
+    "explanation": "Both the Special Prosecutor and President Nixon petitioned the Supreme Court for expedited review before the D.C. Circuit could hear the case, and the Court agreed to grant certiorari before judgment to speed resolution of this nationally critical matter.",
+    "relatedCaseId": "united-states-v-nixon-1974"
+  },
+  {
+    "id": "q-marbury-jurisdiction",
+    "category": "procedural",
+    "difficulty": "hard",
+    "question": "Why did the Supreme Court rule it lacked jurisdiction to grant Marbury his commission?",
+    "options": [
+      "Marbury had not exhausted his administrative remedies",
+      "The Court had already decided a similar case that year",
+      "The Judiciary Act of 1789 unconstitutionally expanded the Court's original jurisdiction",
+      "Madison had already delivered the commission to another judge"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Judiciary Act of 1789 purported to grant the Supreme Court original jurisdiction over writs of mandamus. Marshall held that Article III of the Constitution defines and limits the Court's original jurisdiction, and Congress cannot expand it by statute — making that provision of the Act void.",
+    "relatedCaseId": "marbury-v-madison-1803"
+  },
+  {
+    "id": "q-tax-court-benefit",
+    "category": "jurisdiction",
+    "difficulty": "medium",
+    "question": "What is the primary strategic advantage of litigating a federal tax dispute in U.S. Tax Court (rather than U.S. District Court)?",
+    "options": [
+      "Tax Court has judges with more legal experience",
+      "Tax Court allows the taxpayer to challenge the IRS before paying the disputed amount",
+      "Decisions cannot be appealed to the Supreme Court",
+      "Tax Court applies a lower burden of proof for the government"
+    ],
+    "correctIndex": 1,
+    "explanation": "U.S. Tax Court is the only forum where a taxpayer can contest an IRS deficiency without first paying the disputed tax. In District Court or the Court of Federal Claims, the taxpayer must pay the full amount and then sue for a refund."
+  },
+  {
+    "id": "q-certiorari-rate",
+    "category": "jurisdiction",
+    "difficulty": "easy",
+    "question": "Approximately what percentage of petitions for certiorari does the Supreme Court grant each term?",
+    "options": [
+      "About 25–30%",
+      "About 10–15%",
+      "About 1–2%",
+      "About 50%"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Supreme Court receives roughly 7,000–8,000 petitions per term and grants certiorari in fewer than 100 cases — approximately 1–2%. The \"Rule of Four\" means at least four justices must vote to grant cert.",
+    "relatedCaseId": "marbury-v-madison-1803"
+  },
+  {
+    "id": "q-section-1983",
+    "category": "jurisdiction",
+    "difficulty": "medium",
+    "question": "Under 42 U.S.C. § 1983, who can be sued for violating constitutional rights?",
+    "options": [
+      "Only federal government officials",
+      "Only municipal governments, not individual officers",
+      "State and local actors acting under color of state law",
+      "Private corporations that receive federal funding"
+    ],
+    "correctIndex": 2,
+    "explanation": "§ 1983 provides a cause of action against persons acting \"under color of state law\" who violate constitutional or federal statutory rights. Federal officials are not covered — they are sued under Bivens v. Six Unknown Named Agents (1971) instead.",
+    "relatedCaseId": "brown-v-board-1954"
+  },
+  {
+    "id": "q-bankruptcy-exclusivity",
+    "category": "jurisdiction",
+    "difficulty": "medium",
+    "question": "Which court system has exclusive jurisdiction over bankruptcy matters in the United States?",
+    "options": [
+      "State courts, which apply federal bankruptcy law",
+      "Federal courts — states cannot create their own bankruptcy systems",
+      "Both federal and state courts have concurrent jurisdiction",
+      "The U.S. Court of Federal Claims"
+    ],
+    "correctIndex": 1,
+    "explanation": "Article I, Section 8 of the Constitution grants Congress power to establish \"uniform Laws on the subject of Bankruptcies throughout the United States.\" Bankruptcy jurisdiction is therefore exclusively federal, handled through specialized U.S. Bankruptcy Courts operating as units of the District Courts."
+  },
+  {
+    "id": "q-scenario-miranda",
+    "category": "scenario",
+    "difficulty": "medium",
+    "question": "A suspect is arrested and placed in a police car. Before being read Miranda warnings, she spontaneously says \"I did it — I shot him.\" Under Miranda v. Arizona, is this statement admissible?",
+    "options": [
+      "No — all post-arrest statements require Miranda warnings",
+      "Yes — Miranda applies only to custodial interrogation, not truly spontaneous statements",
+      "Yes — but only if the suspect later waives her rights at the station",
+      "No — the statement must be excluded as fruit of the poisonous tree"
+    ],
+    "correctIndex": 1,
+    "explanation": "Miranda's protections apply to custodial interrogation — questioning initiated by law enforcement. Truly spontaneous, volunteered statements not made in response to police questioning are admissible even without Miranda warnings (Rhode Island v. Innis, 1980).",
+    "relatedCaseId": "miranda-v-arizona-1966"
+  },
+  {
+    "id": "q-scenario-jurisdiction",
+    "category": "scenario",
+    "difficulty": "medium",
+    "question": "A California citizen sues a Texas corporation for $100,000 in breach of contract. No federal law is involved. Which court(s) could properly hear this case?",
+    "options": [
+      "Only California state court",
+      "Only U.S. District Court — state courts lack jurisdiction over large contract disputes",
+      "Either U.S. District Court (diversity jurisdiction) or a state court with competent jurisdiction",
+      "Only the U.S. Court of Federal Claims"
+    ],
+    "correctIndex": 2,
+    "explanation": "28 U.S.C. § 1332 grants federal courts diversity jurisdiction when the parties are citizens of different states and the amount in controversy exceeds $75,000. Here, complete diversity exists (CA vs. TX) and the $100,000 claim meets the threshold — so federal court is available. State court also remains a valid option.",
+    "relatedCaseId": "marbury-v-madison-1803"
+  },
+  {
+    "id": "q-scenario-executive",
+    "category": "scenario",
+    "difficulty": "hard",
+    "question": "A federal grand jury subpoenas emails from a President's private accounts related to an alleged obstruction scheme. The President asserts absolute executive privilege. Based on United States v. Nixon, what is the most likely outcome?",
+    "options": [
+      "The privilege is absolute — all presidential communications are protected",
+      "The court will likely order production because the specific evidentiary need outweighs a generalized privilege claim",
+      "The grand jury must prove the emails are relevant before the privilege can be considered",
+      "The President may withhold any document prepared within 12 months of the grand jury's empaneling"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nixon held that executive privilege is constitutionally based but not absolute. When a demonstrated, specific need for evidence in a criminal proceeding is shown, that need can outweigh a President's generalized claim of confidentiality over non-military, non-diplomatic matters.",
+    "relatedCaseId": "united-states-v-nixon-1974"
+  },
+  {
+    "id": "q-scenario-equal-protection",
+    "category": "scenario",
+    "difficulty": "hard",
+    "question": "A state law requires students attending public schools to be separated by gender in all academic classes, arguing it improves educational outcomes. A parent challenges this under the Equal Protection Clause. Which case provides the most direct precedent for analyzing this challenge?",
+    "options": [
+      "Marbury v. Madison — because it involves a constitutional challenge to a state law",
+      "Miranda v. Arizona — because it involves rights in a government institution",
+      "Brown v. Board of Education — because it held that government-mandated separation in public schools is inherently unequal",
+      "United States v. Nixon — because it involves a conflict between state and federal authority"
+    ],
+    "correctIndex": 2,
+    "explanation": "Brown v. Board of Education's core holding — that government-mandated separation in public schools 'generates a feeling of inferiority' and is inherently unequal — is the most directly relevant precedent. Courts have applied equal protection analysis to gender-based school separation (see United States v. Virginia, 1996, striking down VMI's male-only admissions).",
+    "relatedCaseId": "brown-v-board-1954"
+  },
+  {
+    "id": "q-plessy-doctrine",
+    "category": "holding",
+    "difficulty": "easy",
+    "question": "What legal doctrine did Plessy v. Ferguson (1896) establish that Brown v. Board of Education later overruled?",
+    "options": [
+      "Clear and present danger",
+      "Separate but equal",
+      "Compelling state interest",
+      "Strict scrutiny"
+    ],
+    "correctIndex": 1,
+    "explanation": "Plessy v. Ferguson held that \"separate but equal\" facilities for Black and white citizens did not violate the Fourteenth Amendment. Brown v. Board of Education (1954) explicitly overruled this doctrine, holding that separate educational facilities are inherently unequal.",
+    "relatedCaseId": "plessy-v-ferguson-1896"
+  },
+  {
+    "id": "q-brown-vote",
+    "category": "case-identification",
+    "difficulty": "easy",
+    "question": "By what vote did the Supreme Court decide Brown v. Board of Education (1954)?",
+    "options": [
+      "5–4",
+      "7–2",
+      "6–3",
+      "9–0 (unanimous)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Chief Justice Earl Warren worked diligently behind the scenes to achieve a unanimous 9-0 decision. A unanimous ruling was considered strategically essential to give the decision maximum moral authority and make it harder for Southern states to resist.",
+    "relatedCaseId": "brown-v-board-1954"
+  },
+  {
+    "id": "q-marbury-who-filed",
+    "category": "case-identification",
+    "difficulty": "easy",
+    "question": "In Marbury v. Madison, what was William Marbury seeking from the Supreme Court?",
+    "options": [
+      "Damages for wrongful termination as a federal officer",
+      "A writ of mandamus compelling delivery of his judicial commission",
+      "Review of his criminal conviction",
+      "Injunctive relief against a new federal statute"
+    ],
+    "correctIndex": 1,
+    "explanation": "President Adams appointed Marbury as a justice of the peace in his final hours in office. Secretary of State John Marshall signed the commission but it was never delivered. Marbury filed directly in the Supreme Court seeking a writ of mandamus to force the new Secretary of State, James Madison, to deliver the commission.",
+    "relatedCaseId": "marbury-v-madison-1803"
+  },
+  {
+    "id": "q-roe-framework",
+    "category": "holding",
+    "difficulty": "medium",
+    "question": "The trimester framework in Roe v. Wade (1973) was primarily designed to:",
+    "options": [
+      "Protect the rights of the father of the unborn child",
+      "Balance the woman's privacy right against growing state interests in health and potential life as pregnancy progresses",
+      "Provide a bright-line rule that Congress could codify into statute",
+      "Limit the right to abortion to the first 12 weeks in all circumstances"
+    ],
+    "correctIndex": 1,
+    "explanation": "Justice Blackmun's trimester framework divided pregnancy into three stages. In the first trimester, the abortion decision was left to the woman and her physician. In the second, states could regulate for maternal health. In the third, states could restrict or ban abortion to protect potential life, except to preserve the mother's life or health.",
+    "relatedCaseId": "roe-v-wade-1973"
+  },
+  {
+    "id": "q-nixon-unanimous",
+    "category": "holding",
+    "difficulty": "medium",
+    "question": "Why was the unanimous nature of United States v. Nixon (1974) especially striking?",
+    "options": [
+      "It was the first unanimous decision the Court had issued in over 50 years",
+      "The decision included Nixon's own judicial appointees ruling against him",
+      "All nine justices wrote separate concurrences agreeing on the result",
+      "The ruling was issued within 48 hours of oral argument"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nixon had appointed four of the eight justices who ruled against him (Chief Justice Burger, and Justices Blackmun, Powell, and Rehnquist — though Rehnquist recused himself). The fact that his own nominees joined a unanimous ruling against him powerfully underscored that the rule of law transcends political loyalty.",
+    "relatedCaseId": "united-states-v-nixon-1974"
+  },
+  {
+    "id": "q-miranda-four-warnings",
+    "category": "holding",
+    "difficulty": "medium",
+    "question": "Which of the following is NOT one of the four Miranda warnings required before custodial interrogation?",
+    "options": [
+      "You have the right to remain silent",
+      "Anything you say can be used against you in court",
+      "You have the right to a speedy and public trial",
+      "If you cannot afford an attorney, one will be appointed for you"
+    ],
+    "correctIndex": 2,
+    "explanation": "The four Miranda warnings cover: (1) right to remain silent, (2) that statements can be used against you, (3) right to an attorney, and (4) right to appointed counsel if indigent. The right to a speedy and public trial is a Sixth Amendment guarantee that attaches at a later stage of the proceedings, not at interrogation.",
+    "relatedCaseId": "miranda-v-arizona-1966"
+  },
+  {
+    "id": "q-dobbs-holding",
+    "category": "holding",
+    "difficulty": "medium",
+    "question": "On what constitutional basis did Dobbs v. Jackson (2022) overrule Roe v. Wade?",
+    "options": [
+      "The Commerce Clause does not allow federal regulation of medical procedures",
+      "Abortion is not a right deeply rooted in the nation's history and tradition, so the Due Process Clause does not protect it",
+      "The Tenth Amendment reserves all unenumerated rights to the states",
+      "Congress had implicitly ratified state abortion bans through subsequent legislation"
+    ],
+    "correctIndex": 1,
+    "explanation": "Justice Alito's majority opinion held that for a right to be protected under substantive due process it must be \"deeply rooted in this Nation's history and tradition\" and \"implicit in the concept of ordered liberty.\" The majority concluded that abortion does not meet this standard and therefore the Constitution does not confer such a right.",
+    "relatedCaseId": "roe-v-wade-1973"
+  },
+  {
+    "id": "q-roe-district",
+    "category": "procedural",
+    "difficulty": "medium",
+    "question": "How did the U.S. District Court rule in the original Roe v. Wade litigation, and on what grounds?",
+    "options": [
+      "It dismissed the case for lack of standing",
+      "It upheld the Texas abortion statute as a valid exercise of police power",
+      "It struck down the Texas statute as unconstitutionally vague under the Ninth Amendment, but refused to enjoin its enforcement",
+      "It certified the constitutional question to the Texas Supreme Court"
+    ],
+    "correctIndex": 2,
+    "explanation": "A three-judge federal district panel ruled that the Texas statute was unconstitutionally vague and infringed Ninth Amendment rights, but declined to issue an injunction against enforcement — giving both sides a reason to appeal. The Supreme Court ultimately decided the case on Fourteenth Amendment due process grounds, not the Ninth Amendment.",
+    "relatedCaseId": "roe-v-wade-1973"
+  },
+  {
+    "id": "q-miranda-consolidated",
+    "category": "procedural",
+    "difficulty": "hard",
+    "question": "Miranda v. Arizona was decided alongside three other companion cases. What did they all have in common?",
+    "options": [
+      "All involved defendants who had waived their right to counsel in writing",
+      "All raised the same constitutional question: admissibility of confessions obtained during custodial interrogation without rights warnings",
+      "All arose from the same state court system",
+      "All involved capital offenses"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Supreme Court consolidated Miranda with Vignera v. New York, Westover v. United States, and California v. Stewart because all four cases presented the same unresolved constitutional question: whether the Fifth Amendment privilege against self-incrimination required procedural safeguards before custodial interrogation. Consolidation allowed the Court to issue one definitive ruling.",
+    "relatedCaseId": "miranda-v-arizona-1966"
+  },
+  {
+    "id": "q-brown-consolidated",
+    "category": "procedural",
+    "difficulty": "hard",
+    "question": "Brown v. Board of Education was consolidated with cases from four other jurisdictions. Which of the following was NOT one of them?",
+    "options": [
+      "Briggs v. Elliott (South Carolina)",
+      "Davis v. County School Board (Virginia)",
+      "Sipuel v. Board of Regents (Oklahoma)",
+      "Gebhart v. Belton (Delaware)"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Supreme Court consolidated Brown with Briggs v. Elliott (South Carolina), Davis v. County School Board of Prince Edward County (Virginia), Gebhart v. Belton (Delaware), and Bolling v. Sharpe (D.C.). Sipuel v. Board of Regents was a 1948 case involving law school admissions, decided separately.",
+    "relatedCaseId": "brown-v-board-1954"
+  },
+  {
+    "id": "q-federal-circuit",
+    "category": "jurisdiction",
+    "difficulty": "medium",
+    "question": "Which federal appellate court hears all appeals from the U.S. Court of Federal Claims and most patent cases?",
+    "options": [
+      "The D.C. Circuit",
+      "The U.S. Court of Appeals for the Federal Circuit",
+      "The U.S. Court of Appeals for the First Circuit",
+      "The U.S. Court of International Trade"
+    ],
+    "correctIndex": 1,
+    "explanation": "The U.S. Court of Appeals for the Federal Circuit has nationwide subject-matter jurisdiction over appeals from the Court of Federal Claims, patent cases from all district courts, and certain other specialized matters. Unlike the twelve regional circuits, the Federal Circuit's jurisdiction is defined by subject matter, not geography."
+  },
+  {
+    "id": "q-diversity-amount",
+    "category": "jurisdiction",
+    "difficulty": "easy",
+    "question": "For a federal court to exercise diversity jurisdiction, the amount in controversy must exceed:",
+    "options": [
+      "$10,000",
+      "$50,000",
+      "$75,000",
+      "$100,000"
+    ],
+    "correctIndex": 2,
+    "explanation": "28 U.S.C. § 1332 requires complete diversity of citizenship AND an amount in controversy exceeding $75,000 (exclusive of interest and costs). This threshold was last raised in 1996 from $50,000. Complete diversity means no plaintiff shares state citizenship with any defendant."
+  },
+  {
+    "id": "q-immigration-not-criminal",
+    "category": "jurisdiction",
+    "difficulty": "medium",
+    "question": "A person in removal proceedings before an immigration judge is NOT entitled to which of the following?",
+    "options": [
+      "The right to present evidence",
+      "The right to appeal to the Board of Immigration Appeals",
+      "Government-appointed counsel at the government's expense",
+      "The right to cross-examine government witnesses"
+    ],
+    "correctIndex": 2,
+    "explanation": "Because removal proceedings are civil (not criminal) in nature, respondents have no Sixth Amendment right to appointed counsel at government expense. They may retain counsel at their own cost. This contrasts with criminal defendants, who are entitled to appointed counsel under Gideon v. Wainwright (1963).",
+    "relatedCaseId": "gideon-v-wainwright-1963"
+  },
+  {
+    "id": "q-rule-of-four",
+    "category": "jurisdiction",
+    "difficulty": "easy",
+    "question": "The Supreme Court's \"Rule of Four\" means that:",
+    "options": [
+      "Four justices must sign any majority opinion before it is published",
+      "At least four justices must vote to grant certiorari for the Court to hear a case",
+      "The Court can only hear four cases per argument session",
+      "A four-justice plurality is sufficient to establish binding precedent"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Rule of Four is an informal practice under which the Supreme Court will grant a petition for certiorari if at least four of the nine justices vote to do so. This rule is not found in any statute or formal rule — it is a convention that has developed over time to ensure minority viewpoints can get cases heard.",
+    "relatedCaseId": "marbury-v-madison-1803"
+  },
+  {
+    "id": "q-original-vs-appellate",
+    "category": "jurisdiction",
+    "difficulty": "medium",
+    "question": "Article III of the Constitution grants the Supreme Court original jurisdiction in which type of case?",
+    "options": [
+      "All federal criminal cases",
+      "Cases involving ambassadors, public ministers, consuls, and cases where a state is a party",
+      "Any case involving a constitutional question",
+      "Appeals from the highest court of any state"
+    ],
+    "correctIndex": 1,
+    "explanation": "Article III, Section 2 grants the Supreme Court original jurisdiction (the power to hear a case as a trial court of first instance) in cases affecting ambassadors, other public ministers and consuls, and cases where a state is a party. All other federal cases come to the Court on appellate jurisdiction — as Marbury v. Madison famously established.",
+    "relatedCaseId": "marbury-v-madison-1803"
+  },
+  {
+    "id": "q-eoir-branch",
+    "category": "jurisdiction",
+    "difficulty": "hard",
+    "question": "Immigration courts (EOIR) are part of which branch of the federal government?",
+    "options": [
+      "The Judicial Branch — they are Article I courts",
+      "The Judicial Branch — they are Article III courts",
+      "The Executive Branch — they are administrative tribunals within the Department of Justice",
+      "An independent agency not formally within any branch"
+    ],
+    "correctIndex": 2,
+    "explanation": "Executive Office for Immigration Review (EOIR) immigration courts are administrative tribunals within the Department of Justice, which is part of the Executive Branch. Immigration judges are not Article I or Article III judges — they are employees of the DOJ. This structure has been criticized as compromising judicial independence."
+  },
+  {
+    "id": "q-scenario-search",
+    "category": "scenario",
+    "difficulty": "medium",
+    "question": "Police search a defendant's car without a warrant and find illegal drugs. The defendant moves to suppress the evidence. Under the Fourth Amendment exclusionary rule, what is the most likely outcome?",
+    "options": [
+      "The evidence is admissible because vehicles have a reduced expectation of privacy",
+      "The evidence is admissible as long as the officer had reasonable suspicion",
+      "The evidence should be suppressed unless the government can show a recognized exception to the warrant requirement applied (e.g., automobile exception, plain view, consent)",
+      "The evidence is automatically admissible in federal court even if obtained illegally"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Fourth Amendment generally requires a warrant. However, courts have recognized several exceptions including the automobile exception (probable cause to search a vehicle), plain view, consent, exigent circumstances, and search incident to lawful arrest. The government bears the burden of establishing that an exception applies; otherwise, the exclusionary rule requires suppression.",
+    "relatedCaseId": "miranda-v-arizona-1966"
+  },
+  {
+    "id": "q-scenario-takings",
+    "category": "scenario",
+    "difficulty": "hard",
+    "question": "The government builds a highway that destroys a farmer's access road to his fields, significantly reducing their value, but never formally takes title to any land. The farmer claims a constitutional violation. Which doctrine applies?",
+    "options": [
+      "Eminent domain — the government must compensate for any property it physically occupies",
+      "Regulatory taking — a government action that goes \"too far\" in diminishing property value requires just compensation under the Fifth Amendment",
+      "Inverse condemnation — a physical or regulatory government action that substantially deprives an owner of property use may constitute a compensable taking",
+      "The Eleventh Amendment bars the farmer from suing the government in federal court"
+    ],
+    "correctIndex": 2,
+    "explanation": "Inverse condemnation is a cause of action where the property owner (not the government) initiates the claim, arguing the government's action effectively \"took\" the property without paying just compensation as required by the Fifth Amendment's Takings Clause. Penn Central Transportation Co. v. NYC (1978) established the key balancing test for regulatory takings. Here, the destruction of access could constitute a per se physical taking or at minimum a compensable regulatory interference."
+  },
+  {
+    "id": "q-scenario-waiver",
+    "category": "scenario",
+    "difficulty": "hard",
+    "question": "A defendant is given Miranda warnings, says he understands them, and then answers questions for 30 minutes before asking for a lawyer. Must police stop questioning immediately?",
+    "options": [
+      "No — once Miranda warnings are given, the right to counsel can only be invoked before questioning begins",
+      "No — questioning may continue until the defendant's request for counsel is unambiguous",
+      "Yes — any indication of a desire for counsel, however ambiguous, requires police to stop immediately",
+      "Yes — a defendant's mid-interrogation invocation always requires police to immediately cease all questioning"
+    ],
+    "correctIndex": 1,
+    "explanation": "In Berghuis v. Thompkins (2010), the Supreme Court held that a suspect who has received Miranda warnings and then participates in an interrogation without invoking rights has implicitly waived them. For the invocation of the right to counsel to stop questioning, it must be unambiguous — a clear, unequivocal assertion. An ambiguous or equivocal statement does not require police to stop.",
+    "relatedCaseId": "miranda-v-arizona-1966"
+  },
+  {
+    "id": "q-scenario-marbury",
+    "category": "scenario",
+    "difficulty": "hard",
+    "question": "Congress passes a statute granting the Supreme Court appellate jurisdiction over state traffic violations, bypassing all lower courts. A defendant relies on this statute to appeal directly to the Supreme Court. How would Marbury v. Madison affect this statute?",
+    "options": [
+      "The statute is valid — Congress has plenary power to define Supreme Court jurisdiction",
+      "The statute is invalid — it attempts to expand the Supreme Court's original jurisdiction beyond what Article III allows, under the logic of Marbury",
+      "The statute is valid as to appellate jurisdiction because Marbury only limits original jurisdiction",
+      "The statute is valid only if the defendant has first exhausted state remedies"
+    ],
+    "correctIndex": 1,
+    "explanation": "This is a trick question. Marbury struck down a provision that purported to expand the Supreme Court's original jurisdiction. Technically, Congress does have broad power over appellate jurisdiction (the Exceptions Clause). However, a statute granting direct appellate access over state traffic violations would raise serious Article III problems about \"judicial power\" — and under Marbury's logic, a court would assess whether this conflicts with Article III's structure. The best answer here is that Marbury's principle of constitutional limits on court jurisdiction is the controlling framework.",
+    "relatedCaseId": "marbury-v-madison-1803"
+  },
+  {
+    "id": "q-scenario-stare-decisis",
+    "category": "scenario",
+    "difficulty": "hard",
+    "question": "A lower federal court believes a Supreme Court precedent was wrongly decided. May the lower court refuse to follow it?",
+    "options": [
+      "Yes — lower courts can decline to follow precedents they believe are wrong",
+      "Yes — if intervening Supreme Court decisions have undermined the precedent",
+      "No — under stare decisis, lower federal courts are absolutely bound by Supreme Court precedent until the Supreme Court itself overrules it",
+      "No — unless the precedent is more than 25 years old and relies on overruled factual assumptions"
+    ],
+    "correctIndex": 2,
+    "explanation": "Under the principle of vertical stare decisis, lower federal courts are absolutely bound by Supreme Court precedent — they have no authority to \"overrule\" or disregard it, even if they believe it was wrongly decided. Only the Supreme Court itself can overrule its own precedents. Lower courts that disagree must follow the precedent while perhaps noting their disagreement and inviting the Supreme Court to reconsider.",
+    "relatedCaseId": "marbury-v-madison-1803"
+  },
+  {
+    "id": "q-distinguish-brown-plessy",
+    "category": "holding",
+    "difficulty": "hard",
+    "question": "Why did the Supreme Court reach a different result in Brown v. Board of Education (1954) than in Plessy v. Ferguson (1896), even though both cases involved racial segregation?",
+    "options": [
+      "The Court in Brown found that the school facilities were not physically equal",
+      "The Court in Brown held that segregation itself generates a sense of inferiority that harms children",
+      "Plessy applied only to transportation, so it did not control school segregation",
+      "The Brown Court simply overruled Plessy without providing a new legal rationale"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Brown Court did not rest its decision on whether facilities were factually equal. Instead, Chief Justice Warren held that segregation itself — regardless of tangible equality — \"generates a feeling of inferiority as to [children's] status in the community that may affect their hearts and minds in a way unlikely ever to be undone.\" This psychological harm analysis was the key doctrinal move that distinguished Brown from Plessy, where the majority had treated legal separation as carrying no inherent message of inferiority.",
+    "relatedCaseId": "brown-v-board-1954"
+  },
+  {
+    "id": "q-distinguish-marbury-scope",
+    "category": "holding",
+    "difficulty": "hard",
+    "question": "Marbury v. Madison (1803) established judicial review, yet Chief Justice Marshall denied Marbury the relief he sought. Why is this considered a political masterstroke rather than a contradiction?",
+    "options": [
+      "Marshall had a personal friendship with Marbury and wanted to protect him from a bad outcome",
+      "By ruling he lacked jurisdiction, Marshall avoided a confrontation with Jefferson while permanently asserting the Court's power to void acts of Congress",
+      "Marshall believed Marbury's commission was invalid, so there was no reason to reach the constitutional question",
+      "The decision was purely about statutory interpretation and did not address constitutional issues"
+    ],
+    "correctIndex": 1,
+    "explanation": "Marshall's genius was in the sequencing. He first established that Marbury had a legal right to his commission and that a legal remedy existed — condemning Jefferson's conduct — but then ruled the Court lacked jurisdiction because the relevant provision of the Judiciary Act of 1789 was unconstitutional. This denied Jefferson a direct order to defy while simultaneously asserting the Court's authority to invalidate acts of Congress. Jefferson could not object without conceding the point Marshall had just made.",
+    "relatedCaseId": "marbury-v-madison-1803"
+  },
+  {
+    "id": "q-distinguish-gideon-miranda",
+    "category": "holding",
+    "difficulty": "hard",
+    "question": "Both Gideon v. Wainwright (1963) and Miranda v. Arizona (1966) protect criminal defendants' rights to counsel. What is the key difference in when each right attaches?",
+    "options": [
+      "Gideon applies only at trial; Miranda applies only during sentencing",
+      "Gideon guarantees appointed counsel at trial for indigent defendants; Miranda requires police to advise suspects of the right to counsel before custodial interrogation",
+      "Miranda applies only in federal prosecutions; Gideon applies only in state prosecutions",
+      "Gideon can be waived; Miranda cannot be waived under any circumstances"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gideon v. Wainwright addresses the right to have counsel present at trial — the state must appoint a lawyer for any defendant who cannot afford one in a felony case. Miranda addresses the pre-trial stage: before custodial interrogation, police must warn suspects of their right to have counsel present during questioning. Together, the cases create a continuum of Sixth Amendment protection from interrogation through trial, but they operate at different stages of the criminal process and under different constitutional theories.",
+    "relatedCaseId": "gideon-v-wainwright-1963"
+  },
+  {
+    "id": "q-hypo-miranda-invocation",
+    "category": "scenario",
+    "difficulty": "hard",
+    "question": "A suspect is arrested and read his Miranda rights. He says, \"I want a lawyer,\" but then continues talking to the officers and makes incriminating statements before a lawyer arrives. Are those statements admissible?",
+    "options": [
+      "Yes — he voluntarily kept talking after invoking his rights, which constitutes a waiver",
+      "No — once he invoked his right to counsel, all interrogation must cease until counsel is present",
+      "Yes — the statements were spontaneous and not the product of questioning",
+      "No — unless the officers re-read the Miranda warnings before he continued speaking"
+    ],
+    "correctIndex": 1,
+    "explanation": "Under Edwards v. Arizona (1981), once a suspect invokes the right to counsel, all interrogation must stop immediately and may not resume until counsel is present or the suspect himself reinitiates communication. The fact that the suspect continued talking does not, by itself, constitute a valid waiver after invocation. The Edwards rule exists precisely because the pressures of custodial interrogation can lead to apparent \"waiver\" that is not truly voluntary. The officers' failure to immediately cease questioning renders the subsequent statements inadmissible.",
+    "relatedCaseId": "miranda-v-arizona-1966"
+  },
+  {
+    "id": "q-hypo-executive-privilege",
+    "category": "scenario",
+    "difficulty": "hard",
+    "question": "A grand jury subpoenas the President for communications between senior advisors about a domestic policy decision. The President asserts executive privilege. Under United States v. Nixon, how should a court analyze this claim?",
+    "options": [
+      "The privilege is absolute for any communication among senior White House staff",
+      "The court must balance the specific need for the evidence against the generalized interest in confidentiality, and the privilege yields if the need is compelling",
+      "Executive privilege only covers military and diplomatic communications, so this claim fails automatically",
+      "Grand juries have no authority to subpoena a sitting President under separation of powers"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nixon established that executive privilege is constitutionally grounded but not absolute. The Court applies a balancing test: a generalized claim of confidentiality must yield to \"the demonstrated, specific need for evidence in a pending criminal trial.\" Courts examine whether the need for the information is particularized and compelling, whether it can be obtained elsewhere, and whether in camera review can protect legitimate confidentiality interests. The claim here — a domestic policy discussion in a criminal investigation — is weaker than a claim involving military or diplomatic secrets.",
+    "relatedCaseId": "united-states-v-nixon-1974"
+  },
+  {
+    "id": "q-hypo-judicial-review",
+    "category": "scenario",
+    "difficulty": "hard",
+    "question": "Congress passes a statute requiring all federal courts to rule within 30 days on any case involving immigration or forfeit jurisdiction to state courts. A federal judge argues this violates the Constitution. What is the strongest argument against the statute?",
+    "options": [
+      "Congress has no power to regulate the speed of federal court proceedings",
+      "Article III vests the judicial power in federal courts; a statute conditioning that power on speed targets the independence of the judiciary in a manner inconsistent with Marbury's foundational principle",
+      "The statute is valid because Congress has plenary power over the jurisdiction of lower federal courts",
+      "The statute is valid because it does not eliminate jurisdiction — it just transfers it"
+    ],
+    "correctIndex": 1,
+    "explanation": "While Congress does have broad power over lower federal court jurisdiction under Article III, Marbury established that the Constitution is the supreme law and that courts must have the independence to fulfill their constitutional function. A statute designed to penalize deliberation — by forfeiting jurisdiction for taking too long — would impair the judicial power in a manner the Constitution does not permit. The strongest argument draws on the structural independence of Article III courts, not merely the text of the Exceptions Clause.",
+    "relatedCaseId": "marbury-v-madison-1803"
+  },
+  {
+    "id": "q-stare-gideon-betts",
+    "category": "holding",
+    "difficulty": "hard",
+    "question": "Which justification did the Supreme Court in Gideon v. Wainwright (1963) emphasize most heavily for overruling Betts v. Brady (1942)?",
+    "options": [
+      "Betts had become unworkable in practice and created inconsistent results across states",
+      "The Sixth Amendment text clearly required appointed counsel in all felony cases",
+      "The Court wanted to expand criminal defendants' rights as a general policy matter",
+      "Betts was inconsistent with the original meaning of the Fourteenth Amendment as applied to the states"
+    ],
+    "correctIndex": 0,
+    "explanation": "Justice Black's opinion in Gideon emphasized that Betts had proved unworkable — its \"special circumstances\" test for when counsel was required had generated inconsistent, fact-bound outcomes that were difficult to apply and varied wildly across jurisdictions. The Court also noted that virtually every state already provided counsel in serious criminal cases, suggesting a national consensus. This pragmatic unworkability rationale, combined with the finding that the right to counsel is \"fundamental and essential to a fair trial,\" drove the overruling.",
+    "relatedCaseId": "gideon-v-wainwright-1963"
+  },
+  {
+    "id": "q-stare-roe-dobbs",
+    "category": "holding",
+    "difficulty": "hard",
+    "question": "In Dobbs v. Jackson Women's Health Organization (2022), the Supreme Court overruled Roe v. Wade primarily on which ground?",
+    "options": [
+      "Roe had become unworkable as a practical matter and courts could not administer it consistently",
+      "The abortion right was not deeply rooted in this Nation's history and tradition and thus not protected as a fundamental right under the Due Process Clause",
+      "Congress had passed legislation superseding Roe, so the constitutional question was moot",
+      "The trimester framework from Roe was inconsistent with modern medical science"
+    ],
+    "correctIndex": 1,
+    "explanation": "Justice Alito's majority opinion in Dobbs held that the Due Process Clause protects only rights \"deeply rooted in this Nation's history and tradition.\" Since abortion was criminalized in most states at the time of the Fourteenth Amendment's ratification in 1868, the Dobbs majority concluded the right was not historically grounded enough to be fundamental. The Court rejected reliance on the Casey \"undue burden\" standard and the Roe trimester framework, returning the question of abortion regulation to the states.",
+    "relatedCaseId": "roe-v-wade-1973"
+  },
+  {
+    "id": "q-multi-1983-jurisdiction",
+    "category": "jurisdiction",
+    "difficulty": "hard",
+    "question": "A plaintiff sues a state officer in federal court under 42 U.S.C. § 1983, claiming a violation of his Fourth Amendment rights. The defendant moves to dismiss for lack of subject matter jurisdiction. What result?",
+    "options": [
+      "The motion is denied — the claim arises under federal law, so federal question jurisdiction exists under 28 U.S.C. § 1331",
+      "The motion is granted — § 1983 claims must be brought in state court first",
+      "The motion is denied, but only if the amount in controversy exceeds $75,000",
+      "The motion is granted unless the plaintiff has exhausted state administrative remedies"
+    ],
+    "correctIndex": 0,
+    "explanation": "42 U.S.C. § 1983 is a federal statute, and a claim that a state officer violated a constitutional right \"arises under\" the laws of the United States within the meaning of 28 U.S.C. § 1331. Federal courts have original jurisdiction over § 1983 claims without any amount-in-controversy requirement. There is also no exhaustion requirement for § 1983 claims under Patsy v. Board of Regents (1982) — unlike prisoner litigation under the PLRA, § 1983 plaintiffs may go straight to federal court.",
+    "relatedCaseId": "brown-v-board-1954"
+  },
+  {
+    "id": "q-multi-procedure-cert",
+    "category": "procedural",
+    "difficulty": "hard",
+    "question": "A criminal defendant loses in federal district court, loses again in the Circuit Court of Appeals, and now wants Supreme Court review. What must he do, and how likely is it to succeed?",
+    "options": [
+      "He appeals as of right — the Supreme Court must hear his case",
+      "He files a petition for certiorari; the Court grants cert in fewer than 2% of cases — it will almost certainly be denied",
+      "He must file in the Court of Federal Claims before the Supreme Court will consider the petition",
+      "He can only obtain Supreme Court review if he identifies a circuit split"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review of a federal criminal conviction by the U.S. Supreme Court is discretionary, obtained by petition for a writ of certiorari. The Court receives approximately 7,000–8,000 petitions per year and grants fewer than 100 — a grant rate under 2%. The four sitting justices must agree to hear the case (the \"Rule of Four\"). The most common reasons for granting certiorari are circuit splits, important unresolved federal questions, and cases where a lower court decided an important constitutional issue. The vast majority of petitions are denied without explanation.",
+    "relatedCaseId": "miranda-v-arizona-1966"
+  },
+  {
+    "id": "q-policy-gideon-consequences",
+    "category": "scenario",
+    "difficulty": "hard",
+    "question": "Critics of Gideon v. Wainwright argue that it created serious practical problems for the criminal justice system. Which of the following is the most significant long-term concern raised by scholars?",
+    "options": [
+      "It dramatically increased the cost of providing indigent defense, leading to chronically underfunded public defender systems",
+      "It led to more guilty pleas because defendants trusted their court-appointed lawyers less than retained counsel",
+      "It shifted excessive bargaining power to defense attorneys in plea negotiations",
+      "It caused a sharp increase in the number of criminal appeals, backlogging federal courts"
+    ],
+    "correctIndex": 0,
+    "explanation": "The most widely documented consequence of Gideon is the chronic underfunding of public defender offices. States and localities were required to provide counsel but not given federal funding to do so. The result has been public defenders with staggering caseloads — sometimes hundreds of active cases — and inadequate resources for investigation, expert witnesses, and preparation. Scholars including the American Bar Association have argued that the promise of Gideon remains largely unfulfilled due to systemic underfunding, raising serious questions about whether the constitutional right has been honored in practice.",
+    "relatedCaseId": "gideon-v-wainwright-1963"
+  },
+  {
+    "id": "q-policy-judicial-review-democracy",
+    "category": "scenario",
+    "difficulty": "hard",
+    "question": "Which of the following is the most serious democratic critique of the power of judicial review established in Marbury v. Madison?",
+    "options": [
+      "It gives unelected, life-tenured judges the power to invalidate laws passed by elected representatives",
+      "It allows Congress to override Supreme Court decisions too easily",
+      "It creates inconsistency because different federal circuits may interpret the Constitution differently",
+      "It prevents the President from enforcing unconstitutional laws even in emergencies"
+    ],
+    "correctIndex": 0,
+    "explanation": "The \"counter-majoritarian difficulty\" — the tension between judicial review and democratic self-governance — is the central structural critique of Marbury's legacy. Alexander Bickel articulated this most influentially: federal judges are appointed, not elected, and serve for life, yet they can strike down legislation passed by majorities through democratic processes. Defenders of judicial review respond that the Constitution itself is a majoritarian act (ratified democratically), that rights need counter-majoritarian protection by design, and that the elected branches retain significant checks on the Court. This debate remains central to constitutional theory.",
+    "relatedCaseId": "marbury-v-madison-1803"
+  },
+  {
+    "id": "q-strategy-miranda-waiver",
+    "category": "scenario",
+    "difficulty": "hard",
+    "question": "A defense attorney is advising a client who was interrogated after signing a Miranda waiver form but claims he did not understand what he was signing. What is the attorney's strongest suppression argument?",
+    "options": [
+      "Any signed waiver is automatically valid and cannot be challenged",
+      "The waiver was not knowing and voluntary — a valid waiver requires the suspect to understand the rights being waived and the consequences of waiver",
+      "Miranda waivers are only valid if the suspect waives in writing and on video",
+      "The signed form is conclusive proof of a valid waiver under federal law"
+    ],
+    "correctIndex": 1,
+    "explanation": "Under Miranda and its progeny, a valid waiver must be (1) voluntary — not the product of coercion; (2) knowing — the suspect must understand the rights being waived; and (3) intelligent — the suspect must understand the consequences of waiver. A signed form creates a presumption of valid waiver, but it is not conclusive. The defense can challenge waiver validity by showing the defendant's low education level, language barriers, youth, mental illness, intoxication, or failure to understand the import of the waiver. Moran v. Burbine (1986) and Fare v. Michael C. (1979) set the totality-of-the-circumstances standard.",
+    "relatedCaseId": "miranda-v-arizona-1966"
+  },
+  {
+    "id": "q-strategy-certiorari-split",
+    "category": "procedural",
+    "difficulty": "hard",
+    "question": "A lawyer has lost in two different federal circuit courts on the same constitutional question. Her client has limited funds. What is her strongest argument for why the Supreme Court should grant certiorari?",
+    "options": [
+      "She should argue her client is innocent and has suffered a grave injustice",
+      "She should argue there is a circuit split — two circuits have decided the same federal question differently — creating the need for a uniform national rule",
+      "She should argue the lower courts applied the wrong standard of review",
+      "She should argue the case involves a large amount in controversy"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Supreme Court's own rules (Rule 10) identify circuit splits as the primary basis for granting certiorari. When two or more federal circuits have decided the same federal question differently, the law is not uniform across the country — a constitutional right means different things in different jurisdictions. This is precisely the kind of issue the Supreme Court exists to resolve. Arguments about innocence, standard of review, or amount in controversy are far less compelling to the Court, which sees its role as resolving important legal questions, not correcting individual errors.",
+    "relatedCaseId": "marbury-v-madison-1803"
+  },
+  {
+    "id": "q-adv-miranda-ambiguous-invocation",
+    "category": "scenario",
+    "difficulty": "hard",
+    "question": "A suspect arrested for robbery says, \"I think I should talk to a lawyer,\" after hearing his Miranda rights. Officers stop questioning. Two hours later, a different detective says, \"We just want to clear some things up — no big deal.\" The suspect confesses. Is the confession admissible?",
+    "options": [
+      "Yes — he never clearly invoked his right to counsel, so re-initiation by police was permissible",
+      "No — once he invoked his right to counsel, police may not re-initiate questioning regardless of who approaches him",
+      "Yes — a different officer was questioning him, so the prior invocation does not apply",
+      "No — unless the confession was recorded on video"
+    ],
+    "correctIndex": 1,
+    "explanation": "Under Davis v. United States (1994), an invocation of the right to counsel must be unambiguous and unequivocal — \"I think I should talk to a lawyer\" is borderline. However, if a court finds that statement was an invocation (which many courts would), Edwards v. Arizona (1981) controls: once a suspect invokes the right to counsel, all interrogation must cease and may not be reinitiated by police — including by a different officer — until counsel is present or the suspect himself initiates further communication. The change in detective does not reset the clock. The confession would be suppressed.",
+    "relatedCaseId": "miranda-v-arizona-1966"
+  },
+  {
+    "id": "q-adv-franks-suppression",
+    "category": "scenario",
+    "difficulty": "hard",
+    "question": "Police obtain a search warrant based on an affidavit containing several false statements the officer claims were mistakes. Drugs are found during the search. The defendant moves to suppress. Which argument is most likely to succeed?",
+    "options": [
+      "The evidence should be suppressed because the warrant was based on false information, full stop",
+      "The evidence should be suppressed only if the officer knowingly or recklessly included false statements in the affidavit",
+      "The evidence is admissible because the officers acted in good faith reliance on the warrant",
+      "The evidence is admissible because the drugs were found in plain view once inside"
+    ],
+    "correctIndex": 1,
+    "explanation": "Under Franks v. Delaware (1978), a defendant may challenge a facially valid warrant by showing that the officer deliberately or recklessly included false statements in the affidavit. Mere negligence or honest mistake is not enough — the falsehood must be intentional or made with reckless disregard for the truth. If the defendant makes that showing and the corrected affidavit no longer supports probable cause, the warrant is void and evidence must be suppressed. Good faith reliance under United States v. Leon (1984) does not protect warrants obtained through deliberate or reckless falsehoods.",
+    "relatedCaseId": "miranda-v-arizona-1966"
+  },
+  {
+    "id": "q-adv-marbury-jurisdiction-strip",
+    "category": "scenario",
+    "difficulty": "hard",
+    "question": "Congress passes a statute limiting the Supreme Court's ability to hear constitutional challenges to certain executive actions. A plaintiff whose case is dismissed argues the law is unconstitutional. Which principle from Marbury v. Madison is most directly relevant?",
+    "options": [
+      "The Supreme Court has the power to review acts of Congress for constitutionality",
+      "The President cannot be sued in federal court",
+      "Congress cannot expand the Supreme Court's original jurisdiction beyond what Article III specifies",
+      "Federal courts may only hear cases where the amount in controversy exceeds $75,000"
+    ],
+    "correctIndex": 0,
+    "explanation": "Marbury v. Madison established that it is \"emphatically the province and duty of the judicial department to say what the law is\" and that an act of Congress repugnant to the Constitution is void. A statute purporting to strip the Court of jurisdiction to hear constitutional challenges invokes Marbury's core holding: courts, not Congress, are the final arbiters of constitutional meaning, and Congress cannot use its jurisdiction-stripping power in a way that eliminates the judicial check on executive unconstitutionality. The tension between Article III's vesting clause and Congress's Exceptions Clause power makes this one of the most contested areas of constitutional law.",
+    "relatedCaseId": "marbury-v-madison-1803"
+  },
+  {
+    "id": "q-adv-1983-color-of-law",
+    "category": "scenario",
+    "difficulty": "hard",
+    "question": "A private security guard working at a government-owned stadium under city contract detains and searches a fan without probable cause. The fan sues under 42 U.S.C. § 1983. What is the guard's strongest defense?",
+    "options": [
+      "He is not a state actor, so § 1983 does not apply to his conduct",
+      "He has qualified immunity as a government contractor",
+      "The fan consented to the search by entering the stadium",
+      "The claim is barred by the Eleventh Amendment"
+    ],
+    "correctIndex": 0,
+    "explanation": "Section 1983 requires that the defendant act \"under color of\" state law. Private individuals are not state actors unless they perform a traditionally exclusive public function, are jointly engaged with state actors, or are pervasively entwined with state authority. A private security guard working under contract at a government-owned venue is in a gray zone — courts apply a fact-intensive inquiry. The guard's strongest argument is that private security is not an exclusively governmental function and that mere contracting with the government does not convert private action into state action under Lugar v. Edmondson Oil Co. (1982) and its progeny. Qualified immunity, by contrast, applies to government officials — not typically private contractors.",
+    "relatedCaseId": "brown-v-board-1954"
+  },
+  {
+    "id": "q-adv-regulatory-taking",
+    "category": "scenario",
+    "difficulty": "hard",
+    "question": "A city zoning ordinance restricts a landowner's property to a single-family home on 10 acres. The owner claims a regulatory taking under the Fifth Amendment. Under current Supreme Court precedent, which factor is least relevant to this claim?",
+    "options": [
+      "The economic impact of the regulation on the landowner",
+      "Whether the regulation substantially advances a legitimate state interest",
+      "The extent to which the regulation interferes with reasonable investment-backed expectations",
+      "Whether the regulation denies the owner all economically viable use of the land"
+    ],
+    "correctIndex": 1,
+    "explanation": "In Lingle v. Chevron (2005), the Supreme Court unanimously held that the \"substantially advances a legitimate state interest\" test is not a valid takings standard — it is a due process inquiry, not a Takings Clause analysis. The relevant Penn Central Transportation Co. v. City of New York (1978) factors are: (1) economic impact on the property owner, (2) interference with reasonable investment-backed expectations, and (3) the character of the government action. Where the regulation goes so far as to deny all economically viable use, Lucas v. South Carolina Coastal Council (1992) may require per se compensation. Whether the regulation \"substantially advances\" a state interest is simply not part of the takings calculus after Lingle.",
+    "relatedCaseId": "united-states-v-nixon-1974"
+  },
+  {
+    "id": "q-adv-miranda-re-initiation",
+    "category": "scenario",
+    "difficulty": "hard",
+    "question": "A suspect invokes his right to remain silent. Thirty minutes later he tells officers, \"I've changed my mind — I'll talk.\" Officers resume questioning without re-reading Miranda warnings. Are the statements admissible?",
+    "options": [
+      "Yes — he voluntarily re-initiated communication, which constitutes a valid waiver",
+      "No — officers were required to re-administer Miranda warnings before resuming",
+      "Yes — the earlier invocation was only temporary and automatically expired",
+      "No — once invoked, the right to silence can never be waived in the same interrogation session"
+    ],
+    "correctIndex": 1,
+    "explanation": "Michigan v. Mosley (1975) established that after a suspect invokes the right to silence (as opposed to the right to counsel), police may resume questioning — but only after a significant passage of time, with a fresh set of Miranda warnings, and about a different crime. Re-administering the warnings is not merely preferred but required to ensure any subsequent waiver is knowing and voluntary. Here, thirty minutes is arguably insufficient time, and crucially, the officers did not re-read the warnings. Without fresh Miranda advisements, the resumption was improper and the statements are subject to suppression.",
+    "relatedCaseId": "miranda-v-arizona-1966"
+  },
+  {
+    "id": "q-adv-vertical-stare-decisis",
+    "category": "scenario",
+    "difficulty": "hard",
+    "question": "A federal district court judge strongly disagrees with a recent Supreme Court Fourth Amendment decision. A new case with nearly identical facts is before her. What is she required to do?",
+    "options": [
+      "Follow the Supreme Court decision even if she believes it was wrongly decided",
+      "Distinguish the Supreme Court case on the facts if at all possible",
+      "Certify the constitutional question directly to the Supreme Court",
+      "Apply her own interpretation of the Fourth Amendment and note her disagreement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vertical stare decisis is an absolute rule for lower federal courts: they must follow controlling Supreme Court precedent, full stop. A district court has no authority to \"overrule,\" circumvent, or disregard a Supreme Court decision, even if she believes it was wrongly decided, inconsistent with the constitutional text, or harmful. The judge may write an opinion noting her disagreement and inviting reconsideration, and may distinguish on genuinely different facts — but if the facts are materially identical, she must apply the controlling precedent. Only the Supreme Court itself can overrule its own decisions.",
+    "relatedCaseId": "marbury-v-madison-1803"
+  },
+  {
+    "id": "q-adv-immigration-counsel",
+    "category": "scenario",
+    "difficulty": "hard",
+    "question": "An individual in removal proceedings before an Immigration Judge cannot afford a lawyer and argues he has a constitutional right to appointed counsel. Which statement is most accurate?",
+    "options": [
+      "He has a Sixth Amendment right to counsel because removal carries severe consequences similar to criminal punishment",
+      "He has no constitutional right to appointed counsel because removal is a civil, not criminal, proceeding",
+      "He has a due process right to appointed counsel whenever the case involves complex legal issues",
+      "He has a statutory right to appointed counsel under the Immigration and Nationality Act"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Sixth Amendment right to appointed counsel — established for criminal defendants in Gideon v. Wainwright (1963) — does not extend to civil proceedings, including immigration removal. The Supreme Court has consistently held that deportation, while severe in its consequences, is a civil administrative proceeding. Respondents in removal proceedings have the right to retain counsel at their own expense under 8 U.S.C. § 1229a, but the government is not required to provide a lawyer. Some circuits have recognized narrow due process rights to appointed counsel for particularly vulnerable individuals (e.g., unrepresented minors), but no categorical constitutional right exists.",
+    "relatedCaseId": "gideon-v-wainwright-1963"
+  },
+  {
+    "id": "q-adv-removal-to-federal",
+    "category": "procedural",
+    "difficulty": "hard",
+    "question": "A plaintiff files a § 1983 claim in state court. The defendant removes the case to federal court. The plaintiff wants the case back in state court. Which procedural tool is most appropriate?",
+    "options": [
+      "File a motion to remand under 28 U.S.C. § 1447",
+      "File a motion to dismiss for lack of subject matter jurisdiction",
+      "File a motion to transfer venue under 28 U.S.C. § 1404",
+      "File a notice of appeal to the circuit court"
+    ],
+    "correctIndex": 0,
+    "explanation": "When a defendant removes a case to federal court and the plaintiff believes removal was improper, the correct tool is a motion to remand under 28 U.S.C. § 1447(c). The plaintiff must file the motion within 30 days of the notice of removal (for procedural defects) or at any time before final judgment (for lack of subject matter jurisdiction). Here, however, remand is unlikely to succeed — § 1983 claims arise under federal law, giving federal courts original jurisdiction under 28 U.S.C. § 1331, so removal was proper. A motion to dismiss is the wrong vehicle because the plaintiff wants the case to proceed, just in a different court; a transfer motion moves a case between federal courts, not back to state court.",
+    "relatedCaseId": "brown-v-board-1954"
+  },
+  {
+    "id": "q-adv-warrantless-home-arrest",
+    "category": "scenario",
+    "difficulty": "hard",
+    "question": "Police arrest a suspect without a warrant inside his home after a neighbor reports seeing him with a gun. They find drugs in plain view during the arrest. He moves to suppress both the drugs and the gun. Which argument has the best chance of success?",
+    "options": [
+      "The warrantless in-home arrest was unlawful under Payton v. New York, so all evidence seized incident to it must be suppressed as fruit of the poisonous tree",
+      "The drugs may be suppressed, but the gun is admissible if found during a valid protective sweep under Maryland v. Buie",
+      "Both items are admissible because police observed them in plain view once lawfully inside",
+      "The arrest was lawful under the exigent circumstances exception because the neighbor reported a gun"
+    ],
+    "correctIndex": 0,
+    "explanation": "Under Payton v. New York (1980), absent exigent circumstances or consent, police need an arrest warrant to enter a suspect's home to make a felony arrest — the home receives the highest Fourth Amendment protection. A neighbor's report of a gun, without more, does not necessarily constitute exigent circumstances (no report of an imminent threat, ongoing crime, or hot pursuit). If the arrest is unlawful, all evidence seized incident to it — including drugs found in plain view — is subject to suppression as fruit of the poisonous tree under Wong Sun v. United States (1963). The plain view doctrine permits warrantless seizure of evidence in plain sight, but only when officers are lawfully present — if the entry itself was unlawful, plain view cannot save the evidence.",
+    "relatedCaseId": "miranda-v-arizona-1966"
+  }
+]

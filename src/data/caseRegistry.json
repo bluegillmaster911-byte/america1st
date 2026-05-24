@@ -1,0 +1,98 @@
+[
+  {
+    "id": "brown-v-board-1954",
+    "caseName": "Brown v. Board of Education",
+    "year": 1954,
+    "areaOfLaw": "Equal Protection / Civil Rights"
+  },
+  {
+    "id": "chevron-v-nrdc-1984",
+    "caseName": "Chevron U.S.A. v. Natural Resources Defense Council",
+    "year": 1984,
+    "areaOfLaw": "Administrative Law / Agency Deference"
+  },
+  {
+    "id": "dc-v-heller-2008",
+    "caseName": "District of Columbia v. Heller",
+    "year": 2008,
+    "areaOfLaw": "Second Amendment / Individual Rights"
+  },
+  {
+    "id": "dobbs-v-jackson-2022",
+    "caseName": "Dobbs v. Jackson Women's Health Organization",
+    "year": 2022,
+    "areaOfLaw": "Constitutional Law / Substantive Due Process"
+  },
+  {
+    "id": "escobedo-v-illinois-1964",
+    "caseName": "Escobedo v. Illinois",
+    "year": 1964,
+    "areaOfLaw": "Criminal Procedure / Sixth Amendment"
+  },
+  {
+    "id": "gideon-v-wainwright-1963",
+    "caseName": "Gideon v. Wainwright",
+    "year": 1963,
+    "areaOfLaw": "Criminal Procedure / Sixth Amendment"
+  },
+  {
+    "id": "katz-v-united-states-1967",
+    "caseName": "Katz v. United States",
+    "year": 1967,
+    "areaOfLaw": "Criminal Procedure / Fourth Amendment"
+  },
+  {
+    "id": "mapp-v-ohio-1961",
+    "caseName": "Mapp v. Ohio",
+    "year": 1961,
+    "areaOfLaw": "Criminal Procedure / Fourth Amendment"
+  },
+  {
+    "id": "marbury-v-madison-1803",
+    "caseName": "Marbury v. Madison",
+    "year": 1803,
+    "areaOfLaw": "Constitutional Law / Judicial Review"
+  },
+  {
+    "id": "mcculloch-v-maryland-1819",
+    "caseName": "McCulloch v. Maryland",
+    "year": 1819,
+    "areaOfLaw": "Federal Power / Necessary & Proper Clause"
+  },
+  {
+    "id": "miranda-v-arizona-1966",
+    "caseName": "Miranda v. Arizona",
+    "year": 1966,
+    "areaOfLaw": "Criminal Procedure / Fifth & Sixth Amendments"
+  },
+  {
+    "id": "monell-v-nyc-dept-social-services-1978",
+    "caseName": "Monell v. Department of Social Services",
+    "year": 1978,
+    "areaOfLaw": "Civil Rights / Municipal Liability / § 1983"
+  },
+  {
+    "id": "plessy-v-ferguson-1896",
+    "caseName": "Plessy v. Ferguson",
+    "year": 1896,
+    "areaOfLaw": "Equal Protection / Civil Rights"
+  },
+  {
+    "id": "roe-v-wade-1973",
+    "caseName": "Roe v. Wade",
+    "year": 1973,
+    "areaOfLaw": "Privacy / Due Process / Reproductive Rights"
+  },
+  {
+    "id": "terry-v-ohio-1968",
+    "caseName": "Terry v. Ohio",
+    "year": 1968,
+    "areaOfLaw": "Criminal Procedure / Fourth Amendment"
+  },
+  {
+    "id": "united-states-v-nixon-1974",
+    "caseName": "United States v. Nixon",
+    "year": 1974,
+    "areaOfLaw": "Executive Power / Separation of Powers"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "case-identification",
+    "label": "Case Identification",
+    "description": "Identify cases by name, year, or key facts"
+  },
+  {
+    "id": "holding",
+    "label": "Holdings & Doctrine",
+    "description": "Test your knowledge of landmark rulings and legal principles"
+  },
+  {
+    "id": "procedural",
+    "label": "Procedural History",
+    "description": "Trace cases through the court system step by step"
+  },
+  {
+    "id": "jurisdiction",
+    "label": "Jurisdiction",
+    "description": "Which court? Which path? Which rules apply?"
+  },
+  {
+    "id": "scenario",
+    "label": "Scenario Analysis",
+    "description": "Apply the law to new fact patterns — law school style"
+  }
+]
